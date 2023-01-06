@@ -44,7 +44,8 @@ The participants will be assigned a mentor who will review and will provide feed
 
 You CAN submit a paper at the SRW submission deadline even if you did not participate in the pre-submission mentoring. If you did submit a draft for pre-submission mentoring, you will need to make a new submission for the final version of the paper. The submission website will have separate tracks for pre-submission mentorship and the final paper submission.
 
-## Important Dates
+
+<!-- ## Important Dates
 Pre-submission mentoring deadline: March 10, 2023
 Pre-submission feedback: April 26, 2023
 Paper submission deadline: May 5, 2023
@@ -52,7 +53,7 @@ Review deadline: May 20, 2023
 Acceptance notifications: May 30 2023
 Camera-ready deadline: June 6, 2023
 ACL 2023 conference dates: July 10-12, 2023
-All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
+All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth"). -->
 
 ## Submission Requirements
 We accept both archival submissions (which will be included in the conference proceedings) and non-archival submissions (which will be presented at the workshop but will not be included in the proceedings).
@@ -90,7 +91,7 @@ The SRW invites papers on topics related to computational linguistics, including
 
 ## Grants
 We expect to have grants to offset some portion of students' travel, conference registration, and accommodation expenses. Further details will be posted on the SRW website.
-To contact the organizers of the workshop, please email us at: acl2023.srw@gmail.com.
+To contact the organizers of the workshop, please email us at: [acl2023-srw@googlegroups.com](mailto:acl2023-srw@googlegroups.com)
 
 
 
