@@ -22,7 +22,7 @@ We invite papers in two different categories:
 Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author **MUST BE** a current student (graduate or undergraduate). Topics of interest for the SRW are the same as for the main <a href="https://2023.aclweb.org/calls/main_conference/">ACL 2023 conference</a>
 Thesis Proposals: This category is appropriate for PhD students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
 Submissions (in both categories) may either be archival or non-archival, based on the wish of the authors. All archival papers will be published in the ACL 2023 SRW Proceedings. Non-archival papers may be submitted to any venue in the future except for another SRW.
-The submission links are on our <a href="https://acl2023-srw.github.io/">website</a>. Please read the guidelines carefully.
+**The submission links will be available on the main page of our <a href="https://acl2023-srw.github.io/">website</a> soon**. Please read the guidelines carefully.
 
 
 ## Why Submit to ACL SRW?
