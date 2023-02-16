@@ -11,5 +11,4 @@ Thank you to our sponsors!
 <br/><br/>
 <img src="images/hf-logo.png" alt="HuggingFace" width="200" class="center"/>
 <br/><br/>
-</figure>
 
