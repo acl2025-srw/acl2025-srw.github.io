@@ -75,6 +75,7 @@ The SRW invites papers on topics related to computational linguistics, including
 - Information Retrieval and Text Mining
 - Interpretability and Analysis of Models for NLP
 - Language Grounding to Vision, Robotics, and Beyond
+- Large Language Models
 - Linguistic Theories, Cognitive Modeling, and Psycholinguistics
 - Machine Learning for NLP
 - Machine Translation and Multilinguality
@@ -88,6 +89,7 @@ The SRW invites papers on topics related to computational linguistics, including
 - Speech and Multimodality
 - Summarization
 - Syntax: Tagging, Chunking, and Parsing
+- Thesis Proposals
 
 ## Grants
 We expect to have grants to offset some portion of students' travel, conference registration, and accommodation expenses. Further details will be posted on the SRW website.
