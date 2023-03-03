@@ -16,5 +16,8 @@ __A:__ If the bulk of the work was done when the author was a student, it is acc
  
 #### Q: What is the format for a thesis proposal?
 __A:__ Thesis proposals are to be submitted in the same ACL Overleaf Long Paper template. The maximum page limit for the proposal should be 8 pages (plus unlimited pages for references and appendices). We include Thesis Proposals as a separate track in the submission website since these might involve works overlapping many different areas of NLP. Please refer to the following examples from past years - [1](https://aclanthology.org/2022.naacl-srw.8.pdf) and [2](https://aclanthology.org/2021.naacl-srw.4.pdf).
+
+#### Q: How do I submit to the presubmission mentorship?
+__A:__ Head over to the submission link on SoftConf (now available [here](https://acl2023-srw.github.io/mentoring)). Select "Make a new submission" -> "Click Here to make a new Pre-submission Mentoring Application". You will have to create a START account if you previosuly did not have one.
  
 Please contact us at  [acl2023-srw@googlegroups.com](mailto:acl2023-srw@googlegroups.com) if you have any other questions.
