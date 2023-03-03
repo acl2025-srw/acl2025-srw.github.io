@@ -24,9 +24,11 @@ Authors can elect for both research papers and thesis proposals to be non-archiv
 From a mentorship and reviewing standpoint, archival and nonarchival submissions are treated the same.
 See the call for papers for more details.
 
-# Anti-Harassment Policy
-The ACL Student Research Workshop 2023 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
+## Announcements
+- Submission link for pre-submission mentorship is now available [here](https://acl2023-srw.github.io/mentoring)!!
 
+## Anti-Harassment Policy
+The ACL Student Research Workshop 2023 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
 
 <!-- # Sponsored By        -->
 <!-- ![Computing Research Association’s Computing Community Consortium (CCC)](images/ccc_hz copy.jpg)
