@@ -18,15 +18,3 @@ Participants will be matched with a mentor who will review and provide feedback 
 The feedback will be in the format of guidance and suggestions to improve the overall writing and communication of the paper; students are not required to make the changes suggested by the pre-submission mentor.
 
 **Submission Link for Presubmission Mentorship** - [SoftConf](https://softconf.com/acl2023/srw)
-<!--
-<button class="btn btn-success" onclick="window.location.href='https://forms.gle/kS3ErsCKpJbqnjm77';">
-Submit Now
-</button>
-
-### Are you a professor, postdoc, or industry researcher?
-Mentoring is a great way to meet new researchers interested in your research area, and to have a positive impact on the NAACL community.
-
-<button class="btn btn-success" onclick="window.location.href='https://forms.gle/K3UrvqahrkhP5y7S6';">
-Volunteer
-</button>
--->
