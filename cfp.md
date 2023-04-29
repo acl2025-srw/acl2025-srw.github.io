@@ -11,6 +11,7 @@ Student Research Workshop co-located with ACL 2023 in Toronto, Canada.
 Main Conference: July 10th-12th, 2023
 
 ***Paper Submission Deadline: May 5th, 2023***
+Submission link for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions)
 
 ## About the Student Research Workshop
 The ACL 2023 Student Research Workshop (SRW) is a forum to bring together students investigating various areas of Computational Linguistics, Natural Language Processing and Machine Learning. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.

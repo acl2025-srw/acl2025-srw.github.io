@@ -19,5 +19,11 @@ __A:__ Thesis proposals are to be submitted in the same ACL Overleaf Long Paper 
 
 #### Q: How do I submit to the presubmission mentorship?
 __A:__ Head over to the submission link on SoftConf (now available [here](https://acl2023-srw.github.io/mentoring)). Select "Make a new submission" -> "Click Here to make a new Pre-submission Mentoring Application". You will have to create a START account if you previosuly did not have one.
+
+#### Q: How do I submit to the workshop?
+Submission link for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions). Select "Make a new submission" and fill out the form.
  
+### Q: If I submit to the mentorship program, do I also have to submit to the workshop separately?
+Yes! Please make sure you submit your work again to the workshop in order to have it reviewed. 
+
 Please contact us at  [acl2023-srw@googlegroups.com](mailto:acl2023-srw@googlegroups.com) if you have any other questions.

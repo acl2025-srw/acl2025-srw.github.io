@@ -61,5 +61,6 @@ The style guidelines are specified under Submission Requirements in the [Call fo
 
 ## Paper Submission
 
-Submission is electronic, using the SoftConf conference management. The submission site will be available soon. <!--at [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Student_Research&referrer=%5BHomepage%5D(%2F))-->
+Submission link for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions)
+<!-- Submission is electronic, using the SoftConf conference management. The submission site will be available soon. at [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Student_Research&referrer=%5BHomepage%5D(%2F))-->
 
