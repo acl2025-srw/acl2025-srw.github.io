@@ -55,3 +55,160 @@ Thanks again to all the mentors who helped out!
 <!-- **Submission Link for Presubmission Mentorship** - [SoftConf](https://softconf.com/acl3/srw) -->
 
 ### Program Committee
+
+- Omri Abend
+- Youssef Al Hariri
+- Parsa Bagherzadeh
+- Ahsaas Bajaj
+- Jonas Belouadi
+- Shikha Bordia
+- Agostina Calabrese
+- Jon Ander Campos
+- Silvia Casola
+- Hyundong Cho
+- Chris Develder
+- Gabriel Doyle
+- Ritam Dutt
+- Francesca Franzon
+- Yoshinari Fujinuma
+- Aina Garí Soler
+- Jonas Groschwitz
+- Ivan Habernal
+- Dirk Hovy
+- Tunazzina Islam
+- Labiba Jahan
+- Jyoti Jha
+- Abhinav Joshi
+- Patrick Kahardipraja
+- Fajri Koto
+- Maria Kunilovskaya
+- Alexandra Lavrentovich
+- Manling Li
+- Robert Litschko
+- Chunhua Liu
+- Robert L Logan IV
+- Nicholas Lourie
+- Qing Lyu
+- Arya D. McCarthy
+- Tsvetomila Mihaylova
+- Shubhanshu Mishra
+- Amita Misra
+- Masaaki Nagata
+- Nihal V. Nayak
+- Mariana Neves
+- Vincent Nguyen
+- Kiet Nguyen
+- Maria Leonor Pacheco
+- Ben Peters
+- Adithya Pratapa
+- Hossein Rouhizadeh
+- Michael Sejr Schlichtkrull
+- Mayank Soni
+- Cesare Spinoso-Di Piano
+- Marija Stanojevic
+- Dage Särg
+- Shabnam Tafreshi
+- Hao Tan
+- Thinh Hung Truong
+- Sowmya Vajjala
+- Andrea Varga
+- Francielle Vargas
+- Zhiruo Wang
+- Steven Wilson
+- Wenting Ye
+- Hiyori Yoshikawa
+- Zenan Zhai
+- Mike Zhang
+- Zixuan Zhang
+- Rongxin Zhu
+- Ibrahim Abu Farha
+- Sedeeq Al-khazraji
+- Abeer Aldayel
+- Begoña Altuna
+- Fernando Alva-Manchego
+- Evelin Amorim
+- Tatiana Anikina
+- Valerio Basile
+- Tim Baumgärtner
+- Rachel Bawden
+- Shabnam Behzad
+- Uri Berger
+- Gabriel Bernier-Colborne
+- Terra Blevins
+- Ronald Cardenas
+- Alessandra Teresa Cignarella
+- Xiang Dai
+- Alok Debnath
+- Bonaventure F. P. Dossou
+- Micha Elsner
+- Neele Falk
+- Antonio Farinhas
+- Iker García-Ferrero
+- Esam Ghaleb
+- Anmol Goel
+- Matt Grenander
+- Xudong Han
+- Dieuwke Hupkes
+- Joseph Marvin Imperial
+- Nitish Joshi
+- Ehsan Kamalloo
+- Haoqiang Kang
+- Sarvnaz Karimi
+- Borhan Kazimipour
+- Anirudh Vishal Khatry
+- Prashant Kodali
+- Mamoru Komachi
+- Mascha Kurpicz-Briki
+- Celine Lee
+- Richard Leibbrandt
+- Christoph Leiter
+- Jasy Suet Yan Liew
+- Zheng Wei Lim
+- Lucy Lin
+- Tatiana Litvinova
+- Lara Martin
+- Sandeep Mathias
+- Nikhil Mehta
+- William Merrill
+- Gosse Minnema
+- Adib Mosharrof
+- Aitor Ormazabal
+- Artemis Panagopoulou
+- Sara Papi
+- Tanmay Parekh
+- Ian Porada
+- YIYUAN PU
+- Rajkumar Pujari
+- Yusu Qian
+- Sunny Rai
+- Surangika Ranathunga
+- Hayley Ross
+- Shamik Roy
+- Andreas Rücklé
+- Philipp Sadler
+- Oscar Sainz
+- Sashank Santhanam
+- Abulhair Saparov
+- Ryohei Sasano
+- Tatjana Scheffler
+- Sina Sheikholeslami
+- Chenglei Si
+- Tejas Srinivasan
+- Vivek Srivastava
+- Ashima Suvarna
+- Stan Szpakowicz
+- Koichi Takeda
+- Zeerak Talat
+- Evgeniia Tokarchuk
+- Saranya Venkatraman
+- Takashi Wada
+- Yuxia Wang
+- Jun Wang
+- Zhuohan Xie
+- Rui Xing
+- Yue Yang
+- ran zhang
+- Zheng Zhao
+- Danna Zheng
+- Zhong Zhou
+- Elena Zotova
