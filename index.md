@@ -25,8 +25,10 @@ From a mentorship and reviewing standpoint, archival and nonarchival submissions
 See the call for papers for more details.
 
 ## Announcements
+[June 6th, 1:35pm AoE] <b>Attention paper authors</b>, please be informed that the decisions for the workshop will require an additional day. We apologize for the delay and appreciate your patience. You can expect to receive an email from us informing you of the decisions soon.
+
 <!-- - Submission link for pre-submission mentorship is now available [here](https://acl2023-srw.github.io/mentoring)!! -->
-Submission link for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions)
+<!-- Submission link for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions) -->
 
 ## Anti-Harassment Policy
 The ACL Student Research Workshop 2023 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
