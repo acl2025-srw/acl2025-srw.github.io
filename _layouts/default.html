@@ -1,112 +1,93 @@
-<!DOCTYPE html>
-<html lang="{{ site.locale }}">
-
-  {% include head.html %}
-
-  <body>
-    {% include page-header.html %}
-
-    {% capture nowdate %}{{'now' | date: '%s' | minus: 86400 }}{% endcapture %}
-    {% capture presubmen %}{{'Mar 10 2023' | date: '%s'}}{% endcapture %}
-    {% capture presubfeed %}{{'Apr 26 2023' | date: '%s'}}{% endcapture %}
-    {% capture sub %}{{'May 5 2023' | date: '%s'}}{% endcapture %}
-    {% capture revdue %}{{'May 20 2023' | date: '%s'}}{% endcapture %}
-    {% capture not %}{{'Jun 8 2023' | date: '%s'}}{% endcapture %}
-    {% capture cam %}{{'Jun 15 2023' | date: '%s'}}{% endcapture %}
-    {% capture workshop %}{{'Jul 10 - 12 2023' | date: '%s'}}{% endcapture %}
-
-    <section class="main-content">
-      <div id="side-table-wrapper" style="float:right; width:310px; font-size: small">
-        <h4 id="side-table-header">Important Dates</h4>
-        <table id="important-dates" class="table table-condensed">
-          <tbody>
-            <tr><td>Pre-submission mentorship application</td>
-              <td>
-                {% assign datediff = presubmen | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if presubmen < nowdate %} <strike> <font color="grey">{% endif %}
-                {% if datediff < 30 and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ presubmen | date: "%b %-d (%a), %Y" }}</font>
-              </td>
-            </tr>
-            <tr><td>Pre-submission mentorship feedback</td>
-              <td>
-
-                {% if presubfeed < nowdate %} <strike> <font color="grey">{% endif %}
-                {% assign datediff = presubfeed | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 30  and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ presubfeed | date: "%b %-d (%a), %Y" }}</font>
-              </td>
-            </tr>
-            <tr><td>Submission deadline</td>
-              <td>
-
-                {% if sub < nowdate %} <strike> <font color="grey">{% endif %}
-                {% assign datediff = sub | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 30  and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ sub | date: "%b %-d (%a), %Y" }}</font>
-              </td>
-            </tr>
-            <tr><td>Reviews due</td>
-              <td>
-                {% if revdue < nowdate %} <strike> <font color="grey">{% endif %}
-                {% assign datediff = revdue | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 30  and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ revdue | date: "%b %-d (%a), %Y" }}</font>
-              </td>
-            </tr>
-            <tr><td>Acceptance notification</td>
-              <td>
-                {% if not < nowdate %} <strike> <font color="grey">{% endif %}
-                {% assign datediff = not | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 30  and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ not | date: "%b %-d (%a), %Y" }}</font>
-              </td>
-            </tr>
-            <tr><td>Camera-ready due</td>
-              <td>
-                {% if cam < nowdate %} <strike> <font color="grey">{% endif %}
-                {% assign datediff = cam | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 13  and datediff > -1 %} </font><font color="red"> {% endif %}
-                {{ cam | date: "%b %-d (%a), %Y" }} </font>
-              </td>
-            </tr> 
-            <tr><td>Workshop</td>
-              <td>June 10-12 (With Main Conference)</td>
-            </tr>
-            <tr></tr> 
-            
-            <tr>
-              <p align="center"><small>* <em>All deadlines are calculated at 11:59 pm <br> UTC-12 hours ("anywhere on Earth")</em></small></p>
-            </tr>
-          </tbody></table>
-
-        <!-- <h4 id="side-table-header">SRW is sponsored by</h4> -->
-
-        <!-- <table id="sponsors" class="table table-condensed">
-          <tbody>
-            <tr><td>
-              <a href="https://cra.org/ccc/" target="blank">
-                <img src="{{ site.baseurl }}/images/ccc_vt.png" alt="Computing Community Consortium">
-              </a>
-            <tr><td>
-              <a href="https://www.nsf.gov/" target="blank">
-                <img src="{{ site.baseurl }}/images/NSF_4-Color_bitmap_Logo.png" alt="National Science Foundation">
-              </a>
-            </td></tr>
-          </tbody>
-        </table> -->
-<!--         <h4 id="side-table-header">Follow Us on Twitter!</h4>
-        <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px; height: 6195.3px;" data-widget-id="profile:naacl_srw" title="Twitter Timeline"></iframe>
-
-        <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
-      </div>
-      <!-- ===================================== -->
-      {{ content }}
-
-      {% include page-footer.html %}
-
-    </section>
-
-  </body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: center; font: 9.0px Times; -webkit-text-stroke: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Times; -webkit-text-stroke: #000000}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Times; color: #6d6d6d; -webkit-text-stroke: #6d6d6d}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Times; -webkit-text-stroke: #000000; min-height: 13.0px}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: line-through ; font-kerning: none; color: #6d6d6d; -webkit-text-stroke: 0px #6d6d6d}
+    span.s3 {text-decoration: line-through ; font-kerning: none; color: #fb0007; -webkit-text-stroke: 0px #fb0007}
+    span.s4 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+    span.s5 {text-decoration: line-through ; font-kerning: none}
+    td.td1 {width: 46.7px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 1.0px 1.0px 1.0px 1.0px}
+    td.td2 {width: 253.3px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 1.0px 1.0px 1.0px 1.0px}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% include head.html %} {% include page-header.html %} {% capture nowdate %}{{'now' | date: '%s' | minus: 86400 }}{% endcapture %} {% capture presubmen %}{{'Mar 10 2023' | date: '%s'}}{% endcapture %} {% capture presubfeed %}{{'Apr 26 2023' | date: '%s'}}{% endcapture %} {% capture sub %}{{'May 5 2023' | date: '%s'}}{% endcapture %} {% capture revdue %}{{'May 20 2023' | date: '%s'}}{% endcapture %} {% capture not %}{{'Jun 8 2023' | date: '%s'}}{% endcapture %} {% capture cam %}{{'Jun 15 2023' | date: '%s'}}{% endcapture %} {% capture workshop %}{{'Jul 10 - 12 2023' | date: '%s'}}{% endcapture %}</span></p>
+<h4 style="margin: 0.0px 0.0px 13.3px 0.0px; font: 10.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Important Dates</b></span></h4>
+<p class="p3"><span class="s1">* <i>All deadlines are calculated at 11:59 pm <br>
+UTC-12 hours ("anywhere on Earth")</i></span></p>
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><span class="s1">Pre-submission mentorship application</span></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p4"><span class="s1">{% assign datediff = presubmen | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %} {% if presubmen &lt; nowdate %} </span><span class="s2">{% endif %} {% if datediff &lt; 30 and datediff &gt; -1 %} </span><span class="s3">{% endif %} {{ presubmen | date: "%b %-d (%a), %Y" }}</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><span class="s1">Pre-submission mentorship feedback</span></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5"><span class="s4">{% if presubfeed &lt; nowdate %} </span><span class="s5">{% endif %} {% assign datediff = presubfeed | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %} {% if datediff &lt; 30 and datediff &gt; -1 %} </span><span class="s3">{% endif %} {{ presubfeed | date: "%b %-d (%a), %Y" }}</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><span class="s1">Submission deadline</span></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5"><span class="s4">{% if sub &lt; nowdate %} </span><span class="s5">{% endif %} {% assign datediff = sub | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %} {% if datediff &lt; 30 and datediff &gt; -1 %} </span><span class="s3">{% endif %} {{ sub | date: "%b %-d (%a), %Y" }}</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><span class="s1">Reviews due</span></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5"><span class="s4">{% if revdue &lt; nowdate %} </span><span class="s5">{% endif %} {% assign datediff = revdue | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %} {% if datediff &lt; 30 and datediff &gt; -1 %} </span><span class="s3">{% endif %} {{ revdue | date: "%b %-d (%a), %Y" }}</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><span class="s1">Acceptance notification</span></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5"><span class="s4">{% if not &lt; nowdate %} </span><span class="s5">{% endif %} {% assign datediff = not | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %} {% if datediff &lt; 30 and datediff &gt; -1 %} </span><span class="s3">{% endif %} {{ not | date: "%b %-d (%a), %Y" }}</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><span class="s1">Camera-ready due</span></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p5"><span class="s4">{% if cam &lt; nowdate %} </span><span class="s5">{% endif %} {% assign datediff = cam | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %} {% if datediff &lt; 13 and datediff &gt; -1 %} </span><span class="s3">{% endif %} {{ cam | date: "%b %-d (%a), %Y" }}</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p4"><span class="s1">Workshop</span></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p4"><span class="s1">July 10-12 (With Main Conference)</span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{{ content }} {% include page-footer.html %}</span></p>
+</body>
 </html>
