@@ -26,7 +26,9 @@ See the call for papers for more details.
 
 ## Announcements
 
-We invite all workshop participants to attend the oral sessions and panel discussion. **On July 11th at 11am on Pier 2 & 3**. These sessions provide great opportunities for networking, knowledge exchange, and engaging with fellow participants. Don't miss out on the enriching conversations! 
+We invite all workshop participants to attend the oral sessions and panel discussion. Panelists will discuss about  *Navigating NLP Research in the Era of Large Language Models*. **On July 11th at 11am on Pier 2 & 3**. These sessions provide great opportunities for networking, knowledge exchange, and engaging with fellow participants. 
+
+Don't miss out on the enriching conversations! 
 
 <!--[June 6th, 1:35pm AoE] <b>Attention paper authors</b>, please be informed that the decisions for the workshop will require an additional day. We apologize for the delay and appreciate your patience. You can expect to receive an email from us informing you of the decisions soon.-->
 
