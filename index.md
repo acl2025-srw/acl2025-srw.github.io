@@ -26,7 +26,7 @@ See the call for papers for more details.
 
 ## Announcements
 
-We invite all workshop participants to attend the oral sessions and panel discussion. Panelists will discuss about  *Navigating NLP Research in the Era of Large Language Models*. **On July 11th at 11am on Pier 2 & 3**. These sessions provide great opportunities for networking, knowledge exchange, and engaging with fellow participants. 
+We invite all workshop participants to attend the oral sessions and panel discussion. Our panelists, [Danqi Chen](https://www.cs.princeton.edu/~danqic/), [Sara Hooker](https://www.sarahooker.me/) and [Swaroop Mishra](https://swarooprm.github.io/) will discuss about  *Navigating NLP Research in the Era of Large Language Models*. **On July 11th at 11am on Pier 2 & 3**. These sessions provide great opportunities for networking, knowledge exchange, and engaging with fellow participants. 
 
 Don't miss out on the enriching conversations! 
 
