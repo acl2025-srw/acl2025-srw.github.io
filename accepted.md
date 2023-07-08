@@ -7,13 +7,13 @@ order : 1
 
 ## Archival
 
-***ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer*** 
+***ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer***\ 
 Dongqi Pu, Vera Demberg
 
-***Multi-Dialectal Representation Learning of Sinitic Phonology*** 
+***Multi-Dialectal Representation Learning of Sinitic Phonology***\ 
 Zhibai Jia
 
-***Prompt-based Zero-shot Text Classification with Conceptual Knowledge*** 
+***Prompt-based Zero-shot Text Classification with Conceptual Knowledge***\ 
 Yuqi Wang, Wei Wang, Qi Chen, Kaizhu Huang, Anh Nguyen, Suparna De
 
 ***How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese*** 

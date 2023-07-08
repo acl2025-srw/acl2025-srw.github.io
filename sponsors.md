@@ -14,4 +14,4 @@ Thank you to our sponsors!
 <img src="images/hf-logo.png" alt="HuggingFace" width="200" class="center"/>
 <br/><br/>
 <br/><br/>
-<img src="images/grammarly-logo.png" alt="HuggingFace" width="200" class="center"/>
+<img src="images/grammarly-logo.png" alt="Grammarly" width="200" class="center"/>
