@@ -100,7 +100,7 @@ Kanishka Silva, Burcu Can, Frédéric Blain, Raheem Sarwar, Laura Ugolini, Rusla
 ***[How-to Guides for Specific Audiences: A Corpus and Initial Findings](https://aclanthology.org/2023.acl-srw.46.pdf)***\
 Nicola Fanton, Agnieszka Falenska, Michael Roth
 
-***["When Words Fail, Emojis Prevail": A Novel Architecture for Generating Sarcastic Sentences With Emoji Using Valence Reversal and Semantic Incongruity](https://aclanthology.org/2023.acl-srw.47.pdf)***\
+***["When Words Fail, Emojis Prevail": Generating Sarcastic Utterances with Emoji Using Valence Reversal and Semantic Incongruity](https://aclanthology.org/2023.acl-srw.47.pdf)***\
 Faria Binte Kader, Nafisa Hossain Nujat, Tasmia Binte Sogir, Mohsinul Kabir, Hasan Mahmud, Md Kamrul Hasan
 
 ***[Semantic Accuracy in Natural Language Generation: A Thesis Proposal](https://aclanthology.org/2023.acl-srw.48.pdf)***\
@@ -118,14 +118,8 @@ Sneha P, Sneha Bhaskara, Srishti Seth, Stuti Mohanty, Preet Kanwal
 ***Improving Portfolio Management with Signals from Financial News***\
 Zhilu Zhang
 
-***Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models***\
-Hao Wang, Hirofumi Shimizu, Daisuke Kawahara
-
 ***Aligning Code-Switching Metrics with Bilingual Behavior***\
 Rebecca Pattichis, Sonya Trawick, Dora LaCasse, Rena Torres Cacoullos
-
-***Predicting Human Translation Difficulty Using Automatic Word Alignment***\
-Zheng Wei Lim, Trevor Cohn, Charles Kemp, Ekaterina Vylomova
 
 ***Gender Stereotyping in Popular Children's Videos***\
 Tiasa Singha Roy, Mallikarjuna Tupakula, Sumeet Kumar, Ashiqur Khudabukhsh
@@ -142,20 +136,29 @@ Masaki Sakata, Sho Yokoi, Benjamin Heinzerling, Kentaro Inui
 ***Assessing Chain-of-Thought Reasoning against Lexical Negation: A Case Study on Syllogism***\
 Mengyu Ye, Tatsuki Kuribayashi, Jun Suzuki, Hiroaki Funayama, Goro Kobayashi
 
-***Acquiring Frame Element Knowledge with Deep Metric Learning for Semantic Frame Induction***\
-Kosuke Yamada, Ryohei Sasano, Koichi Takeda
-
 ***EvoGrad: An Online Platform for an Evolving Winograd Schema Challenge using Adversarial Human Perturbations***\
 Jing Han Sun, Jad Kabbara, Ali Emami
-
-***Transformer Language Models Handle Word Frequency in Prediction Head***\
-Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui
 
 ***SWEET: Weakly Supervised Person Name Extraction for Fighting Human Trafficking***\
 Javin Liu, Peter Yu, Vidya Sujaya, Pratheeksha Nair, Kellin Pelrine, Reihaneh Rabbany
 
-***Second Language Acquisition of Neural Language Models***\
-Miyu Oba, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe
-
 ***Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4***\
 Kellin Pelrine, Meilina Reksoprodjo, Caleb Gupta, Joel Christoph, Reihaneh Rabbany
+
+
+## Finding Papers
+
+***Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models***\
+Hao Wang, Hirofumi Shimizu, Daisuke Kawahara
+
+***Predicting Human Translation Difficulty Using Automatic Word Alignment***\
+Zheng Wei Lim, Trevor Cohn, Charles Kemp, Ekaterina Vylomova
+
+***Acquiring Frame Element Knowledge with Deep Metric Learning for Semantic Frame Induction***\
+Kosuke Yamada, Ryohei Sasano, Koichi Takeda
+
+***Transformer Language Models Handle Word Frequency in Prediction Head***\
+Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui
+
+***Second Language Acquisition of Neural Language Models***\
+Miyu Oba, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe
