@@ -137,7 +137,7 @@ Masaki Sakata, Sho Yokoi, Benjamin Heinzerling, Kentaro Inui
 Mengyu Ye, Tatsuki Kuribayashi, Jun Suzuki, Hiroaki Funayama, Goro Kobayashi
 
 ***EvoGrad: An Online Platform for an Evolving Winograd Schema Challenge using Adversarial Human Perturbations***\
-Jing Han Sun, Jad Kabbara, Ali Emami
+Jing Han Sun, Ali Emami
 
 ***SWEET: Weakly Supervised Person Name Extraction for Fighting Human Trafficking***\
 Javin Liu, Peter Yu, Vidya Sujaya, Pratheeksha Nair, Kellin Pelrine, Reihaneh Rabbany
