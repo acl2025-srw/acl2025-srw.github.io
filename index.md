@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ACL Student Research Workshop (SRW) 2023"
+title: "ACL Student Research Workshop (SRW) 2025"
 permalink: /
 order: 1
 ---
@@ -8,7 +8,7 @@ order: 1
 
 <!-- button class="btn btn-success" onclick="window.location.href='/mentoring';">Submit your paper draft to our mentorshop program by Feb 1!</button -->
 
-# Welcome to ACL SRW 2023
+# Welcome to ACL SRW 2025
 The ACL Student Research Workshop (SRW) 2023 will be held in conjunction with [ACL 2023](https://2023.aclweb.org/). The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 <br>
 We will update this site when latest information are available.
