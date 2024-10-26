@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "ACL Student Research Workshop (SRW) 2023"
 permalink: /
 order: 1
