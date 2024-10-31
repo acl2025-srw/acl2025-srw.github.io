@@ -20,16 +20,16 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "ACL Student Research Workshop (SRW) 2023"
+title                    : "ACL Student Research Workshop (SRW) 2025"
 title_separator          : "-"
 name                     : "ACL"
-description              : "In conjunction with ACL 2023 in Toronto, Ontario, Canada" 
+description              : "In conjunction with ACL 2025 in Vienna, Austria" 
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "acl2023srw"
+    shortname            : "acl2025srw"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -60,7 +60,7 @@ naver_site_verification  :
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: acl2023-srw@googlegroups.com
-  github: acl2023-srw
+  email: acl2025-srw@googlegroups.com
+  github: acl2025-srw
   twitter: acl_srw
   
