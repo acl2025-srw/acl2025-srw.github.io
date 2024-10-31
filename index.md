@@ -16,6 +16,13 @@ We will update this site when latest information are available.
 Contact us via email at [acl2025-srw@googlegroups.com](mailto:acl2025-srw@googlegroups.com) for any questions.
 <!-- Get connected with us on [Twitter](https://twitter.com/acl_srw). -->
 
+Note below is outdated, and we will update soon!
+----
+
+
+
+
+
 <!-- ### List of the accepted papers are available [here](/accepted) -->
 
 <!-- # Differences from Past SRWs -->
