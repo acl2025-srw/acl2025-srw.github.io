@@ -17,6 +17,7 @@ Contact us via email at [acl2025-srw@googlegroups.com](mailto:acl2025-srw@google
 <!-- Get connected with us on [Twitter](https://twitter.com/acl_srw). -->
 
 Note below is outdated, and we will update soon!
+2024.11.03
 ----
 
 
