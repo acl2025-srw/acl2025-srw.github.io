@@ -5,6 +5,8 @@ permalink: /accepted_papers
 order : 1
 ---
 
+TBD
+<!-- 
 ## Archival
 
 ***[ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer](https://aclanthology.org/2023.acl-srw.1.pdf)***\
@@ -161,4 +163,4 @@ Kosuke Yamada, Ryohei Sasano, Koichi Takeda
 Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui
 
 ***Second Language Acquisition of Neural Language Models***\
-Miyu Oba, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe
+Miyu Oba, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe -->
