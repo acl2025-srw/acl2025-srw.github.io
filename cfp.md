@@ -1,31 +1,31 @@
 ---
 layout: page
-title: "Call For Papers: ACL 2023 Student Research Workshop"
+title: "Call For Papers: ACL 2025 Student Research Workshop"
 permalink: /cfp
 order : 1
 ---
 
 # Call for Papers
-Student Research Workshop co-located with ACL 2023 in Toronto, Canada.
+Student Research Workshop co-located with ACL 2025 in Vienna, Austria.
 
-Main Conference: July 10th-12th, 2023
+Main Conference: July 27 to August 1, 2025
 
-***Paper Submission Deadline: May 5th, 2023***
+***Paper Submission Deadline: May 18th, 2025***
 
-Submission link for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions)
+<!-- Submission link for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions) -->
 
 ## About the Student Research Workshop
-The ACL 2023 Student Research Workshop (SRW) is a forum to bring together students investigating various areas of Computational Linguistics, Natural Language Processing and Machine Learning. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.
+The ACL 2025 Student Research Workshop (SRW) is a forum to bring together students investigating various areas of Computational Linguistics, Natural Language Processing and Machine Learning. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.
 
-The workshop's goal is to aid students at multiple stages of their education, including undergraduate, MSc/MA, junior and senior PhD students, in getting familiar with conducting and presenting their research.
+The workshop’s goal is to aid students at multiple stages of their education, including highschool, undergraduate, MSc/MA, junior and senior PhD students, in getting familiar with conducting and presenting their research.
 
 ## General Rules for Submission
 We invite papers in two different categories:
-Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author **MUST BE** a current student (graduate or undergraduate). Topics of interest for the SRW are the same as for the main <a href="https://2023.aclweb.org/calls/main_conference/">ACL 2023 conference</a>
-Thesis Proposals: This category is appropriate for PhD students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
-Submissions (in both categories) may either be archival or non-archival, based on the wish of the authors. All archival papers will be published in the ACL 2023 SRW Proceedings. Non-archival papers may be submitted to any venue in the future except for another SRW.
-**The submission links will be available on the main page of our <a href="https://acl2023-srw.github.io/">website</a> soon**. Please read the guidelines carefully.
 
+- Thesis Proposals: This category is appropriate for PhD students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
+- Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author **MUST BE** a current student (graduate or undergraduate). Topics of interest for the SRW are the same as for the main <a href="https://2025.aclweb.org/calls/main_conference_papers/">ACL 2025 conference</a>.
+
+Submissions (in both categories) may be archival or non-archival, based on the wish of the authors. All archival papers will be published in the ACL 2025 SRW Proceedings. Non-archival papers may be submitted to any venue in the future except for another SRW.
 
 ## Why Submit to ACL SRW?
 There are many good reasons to submit to the ACL SRW, such as:
@@ -38,7 +38,7 @@ All accepted papers and thesis proposals will be presented either as oral presen
 ## Pre-Submission Mentorship Program
 The SRW offers students the opportunity to receive feedback prior to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student's work, not to critique the work itself. Participation is optional but encouraged. The pre-submission mentorship is not anonymous.
 
-Students wishing to participate in the pre-submission mentorship must submit their paper draft by March 10, 2023.
+Students wishing to participate in the pre-submission mentorship must submit their paper draft by March 27, 2025.
 
 Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check for the formality of the paper including formatting before we match it with mentors.
 
@@ -95,7 +95,12 @@ The SRW invites papers on topics related to computational linguistics, including
 
 ## Grants
 We expect to have grants to offset some portion of students' travel, conference registration, and accommodation expenses. Further details will be posted on the SRW website.
-To contact the organizers of the workshop, please email us at: [acl2023-srw@googlegroups.com](mailto:acl2023-srw@googlegroups.com)
+To contact the organizers of the workshop, please email us at: [acl2025-srw@googlegroups.com](mailto:acl2025-srw@googlegroups.com)
+
+## Student Research Workshop Chairs
+- Zhu Liu, Tsinghua University (China)
+- Mingyang Wang, LMU Munich (Germany)
+- Jin Zhao, Brandeis University (USA)
 
 
 
