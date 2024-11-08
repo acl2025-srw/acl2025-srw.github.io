@@ -6,30 +6,30 @@ order : 1
 ---
 
 # Author Guidelines
-The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. ACL SRW 2023 will adhere to these policies and guidelines. Submissions should:
+The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. ACL SRW 2025 will adhere to these policies and guidelines. Submissions should:
 
-- __Be relevant__: Submissions to ACL SRW 2023 should be relevant to the audience.
-- __Be original__: The content of submissions to ACL SRW 2023 (the ideas, the findings, the results and the words) should be original; that is, should not have been published (or be accepted for publication) in another refereed, archival form (such as a book, a journal, or a conference proceedings). Authors are referred to the ACL author guidelines for additional information on what constitutes existing publication.
+- __Be relevant__: Submissions to ACL SRW 2025 should be relevant to the audience.
+- __Be original__: The content of submissions to ACL SRW 2025 (the ideas, the findings, the results and the words) should be original; that is, should not have been published (or be accepted for publication) in another refereed, archival form (such as a book, a journal, or a conference proceedings). Authors are referred to the ACL author guidelines for additional information on what constitutes existing publication.
 
 Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Authors should list all such previous presentations in the submission form. This will help the workshop chairs if questions of originality arise.
 
 ## Double submission
 
-Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to ACL SRW 2023. Authors of papers accepted for presentation at ACL SRW 2023 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
+Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to ACL SRW 2025. Authors of papers accepted for presentation at ACL SRW 2025 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
 
-Authors submitting more than one paper to ACL 2023 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single ACL 2023 track (Research, Industry, SRW or demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
+Authors submitting more than one paper to ACL 2025 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single ACL 2025 track (Research, Industry, SRW or demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
 
 ## Double blind review
 
 Double blind review is a form of peer review in which the identities of authors are not provided to reviewers, and the identities of reviewers are not provided to authors. To facilitate double blind review, submissions must not identify authors or their affiliations. For example, self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ..." must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...".
 
-Any preliminary non-archival versions of submitted papers should be listed in the submission form but not in the review version of the paper. ACL SRW 2023 reviewers are generally aware that authors may present preliminary versions of their work in other venues, but will not be provided the list of previous presentations from the submission form.
+Any preliminary non-archival versions of submitted papers should be listed in the submission form but not in the review version of the paper. ACL SRW 2025 reviewers are generally aware that authors may present preliminary versions of their work in other venues, but will not be provided the list of previous presentations from the submission form.
 
 Authors are referred to the [ACL author guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines) for additional information on how to facilitate double blind review.
 
 ## Accurately represent contributors
 
-The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ACL SRW 2023 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to ACL SRW 2023 after the abstract submission deadline.
+The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ACL SRW 2025 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to ACL SRW 2025 after the abstract submission deadline.
 
 ## Data management
 
@@ -49,7 +49,7 @@ Authors are referred to the [ACL author guidelines](https://www.aclweb.org/admin
 
 ## Optional Supplementary Materials: Appendices, Software and Data
 
-Papers should not refer, for further detail, to documents, code or data resources that are not available to the reviewers. ACL SRW 2023 does encourage the submission of additional material that is relevant to the reviewers but not an integral part of the paper. There are two such types of material: appendices, which can be read, and non-readable supplementary materials, often data or code. Data and code should be submitted via the additional upload links on OpenReview. Appendices should be placed after your References section, starting on a new page, within the same document as your main paper. Additional material must adhere to the same anonymity guidelines as the main paper. Finally, your paper must be self-contained: it is optional for reviewers to look at the supplementary material.
+Papers should not refer, for further detail, to documents, code or data resources that are not available to the reviewers. ACL SRW 2025 does encourage the submission of additional material that is relevant to the reviewers but not an integral part of the paper. There are two such types of material: appendices, which can be read, and non-readable supplementary materials, often data or code. Data and code should be submitted via the additional upload links on OpenReview. Appendices should be placed after your References section, starting on a new page, within the same document as your main paper. Additional material must adhere to the same anonymity guidelines as the main paper. Finally, your paper must be self-contained: it is optional for reviewers to look at the supplementary material.
 
 ## Ethics Policy
 
@@ -57,10 +57,11 @@ Authors are required to honour the ethical code set out in the ACM Code of Ethic
 
 ## Follow style and format guidelines
 
-The style guidelines are specified under Submission Requirements in the [Call for Papers](https://acl2023-srw.github.io/cfp).  
+The style guidelines are specified under Submission Requirements in the [Call for Papers](https://acl2025-srw.github.io/cfp).  
 
 ## Paper Submission
 
-Submission link for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions)
+Submission link will be open later! 
+<!-- for the workshop is now available [here](https://softconf.com/acl2023/srw-submissions) -->
 <!-- Submission is electronic, using the SoftConf conference management. The submission site will be available soon. at [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Student_Research&referrer=%5BHomepage%5D(%2F))-->
 

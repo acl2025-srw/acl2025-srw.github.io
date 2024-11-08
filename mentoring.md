@@ -15,4 +15,4 @@ Note that pre-submission mentorship is not anonymous. However, you should still 
 Participants will be matched with a mentor who will review and provide feedback to the student. This mentor will not be the same person who will review the final submission.
 The feedback will be in the format of guidance and suggestions to improve the overall writing and communication of the paper; students are not required to make the changes suggested by the pre-submission mentor.
 
-Pre-submission mentorship is **complete**. 
+<!-- Pre-submission mentorship is **complete**.  -->

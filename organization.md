@@ -7,14 +7,15 @@ order : 1
 # Organization
 
 ### Student Chairs
-- [Yao Fu](https://franxyao.github.io/), University of Edinburgh, UK
-- [Vishakh Padmakumar](https://vishakhpk.github.io/), New York University, USA
-- [Gisela Vallejo](http://gvallejo.co/), University of Melbourne, Australia
+- [Zhu Liu](https://juniperliuzhu.netlify.app/), Tsinghua University, China
+- [Mingyang Wang](https://mingyang-wang26.github.io/), LMU Munich, Germany
+- [Jin Zhao](), Brandeis University, USA
 
 ### Faculty Advisors 
-- [Ivan Vulić](https://sites.google.com/site/ivanvulic/), University of Cambridge, UK
-- [Lu Wang](https://web.eecs.umich.edu/~wangluxy/), University of Michigan, USA
-
+- [Lea Frermann](https://www.frermann.de/), University of Melbourne, AU
+- [Daniel Hershcovich](https://danielhers.github.io/), University of Copenhagen, DK
+- [Tristan Miller](https://logological.org/), University of Manitoba, CA
+<!-- 
 ### Mentors for Student Participants
 Thanks again to all the mentors who helped out!
 
@@ -53,9 +54,9 @@ Thanks again to all the mentors who helped out!
 - Marco Basaldella
 
 <!-- **Submission Link for Presubmission Mentorship** - [SoftConf](https://softconf.com/acl3/srw) -->
-
-### Program Committee
-
+<!-- 
+### Program Committee -->
+<!-- 
 - Omri Abend
 - Youssef Al Hariri
 - Parsa Bagherzadeh
@@ -211,4 +212,4 @@ Thanks again to all the mentors who helped out!
 - Zheng Zhao
 - Danna Zheng
 - Zhong Zhou
-- Elena Zotova
+- Elena Zotova --> -->
