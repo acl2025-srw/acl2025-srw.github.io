@@ -52,6 +52,7 @@ Thanks again to all the mentors who helped out!
 - Lea Frermann
 - Shikha Bordia
 - Marco Basaldella
+-->
 
 <!-- **Submission Link for Presubmission Mentorship** - [SoftConf](https://softconf.com/acl3/srw) -->
 <!-- 
@@ -212,4 +213,4 @@ Thanks again to all the mentors who helped out!
 - Zheng Zhao
 - Danna Zheng
 - Zhong Zhou
-- Elena Zotova --> -->
+- Elena Zotova --> 
