@@ -9,7 +9,7 @@ order : 1
 ### Student Chairs
 - [Zhu Liu](https://juniperliuzhu.netlify.app/), Tsinghua University, China
 - [Mingyang Wang](https://mingyang-wang26.github.io/), LMU Munich, Germany
-- [Jin Zhao](), Brandeis University, USA
+- [Jin Zhao](https://jinzhao3611.github.io/), Brandeis University, USA
 
 ### Faculty Advisors 
 - [Lea Frermann](https://www.frermann.de/), University of Melbourne, AU
