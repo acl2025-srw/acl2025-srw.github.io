@@ -15,11 +15,11 @@ order : 1
 - [Lea Frermann](https://www.frermann.de/), University of Melbourne, AU
 - [Daniel Hershcovich](https://danielhers.github.io/), University of Copenhagen, DK
 - [Tristan Miller](https://logological.org/), University of Manitoba, CA
-<!-- 
-### Mentors for Student Participants
-Thanks again to all the mentors who helped out!
 
-- Naomi Saphra
+<!-- ### Mentors for Student Participants
+Thanks again to all the mentors who helped out! -->
+
+<!-- - Naomi Saphra
 - Rob van der Goot
 - Sweta Agrawal
 - Fernando Alva-Manchego
@@ -51,14 +51,14 @@ Thanks again to all the mentors who helped out!
 - Zheng Yuan
 - Lea Frermann
 - Shikha Bordia
-- Marco Basaldella
--->
+- Marco Basaldella -->
+
 
 <!-- **Submission Link for Presubmission Mentorship** - [SoftConf](https://softconf.com/acl3/srw) -->
-<!-- 
-### Program Committee -->
-<!-- 
-- Omri Abend
+
+<!-- ### Program Committee  -->
+
+<!-- - Omri Abend
 - Youssef Al Hariri
 - Parsa Bagherzadeh
 - Ahsaas Bajaj
@@ -213,4 +213,4 @@ Thanks again to all the mentors who helped out!
 - Zheng Zhao
 - Danna Zheng
 - Zhong Zhou
-- Elena Zotova --> 
+- Elena Zotova  -->

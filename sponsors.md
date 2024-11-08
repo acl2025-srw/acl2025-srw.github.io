@@ -6,9 +6,9 @@ order : 1
 ---
 
 TBD
-<!-- Thank you to our sponsors!
+<!-- Thank you to our sponsors! -->
 
-<img src="images/NSF_4-Color_bitmap_Logo.png" alt="Google" width="200" class="center"/>
+<!-- <img src="images/NSF_4-Color_bitmap_Logo.png" alt="Google" width="200" class="center"/>
 <br/><br/>
 <img src="images/google_logo.svg" alt="Google" width="200" class="center"/>
 <br/><br/>

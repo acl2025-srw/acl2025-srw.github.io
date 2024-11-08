@@ -26,4 +26,4 @@ Submission link for the workshop is now available [here](https://softconf.com/ac
 ### Q: If I submit to the mentorship program, do I also have to submit to the workshop separately?
 Yes! Please make sure you submit your work again to the workshop in order to have it reviewed. 
 
-Please contact us at  [acl2023-srw@googlegroups.com](mailto:acl2025-srw@googlegroups.com) if you have any other questions.
+Please contact us at  [acl2025-srw@googlegroups.com](mailto:acl2025-srw@googlegroups.com) if you have any other questions.
