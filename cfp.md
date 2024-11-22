@@ -23,7 +23,7 @@ The workshop’s goal is to aid students at multiple stages of their education, 
 We invite papers in two different categories:
 
 - Thesis Proposals: This category is appropriate for PhD students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
-- Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author **MUST BE** a current student (graduate or undergraduate). Topics of interest for the SRW are the same as for the main <a href="https://2025.aclweb.org/calls/main_conference_papers/">ACL 2025 conference</a>.
+- Research Papers: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author **MUST BE** a current student (high school, graduate, or undergraduate). Topics of interest for the SRW are the same as for the main <a href="https://2025.aclweb.org/calls/main_conference_papers/">ACL 2025 conference</a>.
 
 Submissions (in both categories) may be archival or non-archival, based on the wish of the authors. All archival papers will be published in the ACL 2025 SRW Proceedings. Non-archival papers may be submitted to any venue in the future except for another SRW.
 
