@@ -9,7 +9,7 @@ order: 1
 <!-- button class="btn btn-success" onclick="window.location.href='/mentoring';">Submit your paper draft to our mentorshop program by Feb 1!</button -->
 
 # Welcome to ACL SRW 2025
-The ACL 2025 Student Research Workshop (SRW) will be held in conjunction with [ACL 2025]((https://2025.aclweb.org/)). It is a forum to bring together students investigating various areas of Computational Linguistics, Natural Language Processing and Machine Learning. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.
+The ACL 2025 Student Research Workshop (SRW) will be held in conjunction with [ACL 2025](https://2025.aclweb.org/). It is a forum to bring together students investigating various areas of Computational Linguistics, Natural Language Processing and Machine Learning. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.
 
 The workshop’s goal is to aid students at multiple stages of their education, including highschool, undergraduate, MSc/MA, junior and senior PhD students, in getting familiar with conducting and presenting their research.
 
@@ -35,7 +35,7 @@ From a mentorship and reviewing standpoint, archival and nonarchival submissions
 
 ACL 2025 SRW still has two different categories: thesis proposals and research papers.
 
-See the call for papers for more details.
+See the [call for papers](cfp.md) for more details.
 
 <!-- ## Announcements
 
