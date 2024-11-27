@@ -22,10 +22,12 @@ The feedback will be in the format of guidance and suggestions to improve the ov
 
 ## Are you a professor, postdoc, or industry researcher?
 Mentoring is a great way to meet new researchers interested in your research area, and to have a positive impact on the ACL community.
+
+
 <a href="https://forms.gle/JeH53zDCm1piUtGH8" target="_blank" style="text-decoration:none;">
     <button style="
         background-color: #28a745; 
-        color: green; 
+        color: white; 
         padding: 10px 20px; 
         font-size: 16px; 
         border: none; 
