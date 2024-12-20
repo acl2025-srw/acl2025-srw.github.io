@@ -22,7 +22,8 @@ Contact us via email at [acl2025-srw@googlegroups.com](mailto:acl2025-srw@google
 <!-- Note below is outdated, and we will update soon! -->
 ----
 
-!! -- We are recruiting mentors!
+!! -- We are recruiting mentors and reviewers!
+
 Mentoring is a great way to meet new researchers interested in your research area, and to have a positive impact on the ACL community. See more info in [mentoring](https://acl2025-srw.github.io/mentoring) page. Please fill out this form if you are interested! 
 
 
@@ -35,9 +36,11 @@ Mentoring is a great way to meet new researchers interested in your research are
         border: none; 
         border-radius: 5px; 
         cursor: pointer;">
-        Volunteer
+        Mentor Volunteer
     </button>
 </a>
+
+Also, we are also seeking reviewers whose responsibilities include evaluating papers and providing constructive feedback. If you are interested, please complete this [form](https://forms.gle/SZVFgniyvZaYQ84k8).  
 
 ---
 
