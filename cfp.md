@@ -74,7 +74,7 @@ You CAN submit a paper at the SRW submission deadline even if you did not partic
 
 - Camera-ready deadline: July 1, 2025
 
-- ACL 2023 conference dates: July 28-30, 2025
+- ACL 2025 conference dates: July 27-Aug 1st, 2025
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")
 
