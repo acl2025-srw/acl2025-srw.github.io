@@ -16,12 +16,15 @@ The workshop’s goal is to aid students at multiple stages of their education, 
 <!-- <br> -->
 <!-- We will update this site when latest information are available (Update time: 2025.11.04). -->
 
-Contact us via email at [acl2025-srw@googlegroups.com](mailto:acl2025-srw@googlegroups.com) for any questions.
+Contact us via email at [acl.2025.srw@gmail.com](mailto:acl.2025.srw@gmail.com) for any questions.
 <!-- Get connected with us on [Twitter](https://twitter.com/acl_srw). -->
 
 <!-- Note below is outdated, and we will update soon! -->
 ----
+!! -- Pre-submission mentorship applications are open now!
+If you would like to get feedback from mentors, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSecnxBYtvjJnZ2NdvAxB84q6RRBK97pbUXsaj14AdOC71ZLTA/viewform?usp=dialog) before March 27, 2025.
 
+----
 !! -- We are recruiting mentors and reviewers!
 
 Mentoring is a great way to meet new researchers interested in your research area, and to have a positive impact on the ACL community. See more info in [mentoring](https://acl2025-srw.github.io/mentoring) page. Please fill out this form if you are interested! 
