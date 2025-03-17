@@ -3,6 +3,7 @@ layout: page
 title: "Call For Papers: ACL 2025 Student Research Workshop"
 permalink: /cfp
 order : 1
+
 ---
 
 # Call for Papers
@@ -26,7 +27,7 @@ More Information [here](https://acl2025-srw.github.io/mentoring).) Please fill o
 
 Also, we are seeking reviewers. If you are interested, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfHqPd2XH23iTxnvkNA5nNamKVbtQSDF-ZhTbKZvM1ZKVSXrA/viewform).
 
-Follow us on [X/Twitter](https://x.com/acl_srw) for the latest updates!
+Check our [website](https://acl2025-srw.github.io/) and follow us on [X/Twitter](https://x.com/acl_srw) for the latest updates!
 
 ## General Rules for Submission
 
@@ -51,7 +52,7 @@ All accepted papers and thesis proposals will be presented either as oral presen
 
 The SRW offers students the opportunity to receive feedback prior to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student's work, not to critique the work itself. Participation is optional but encouraged. The pre-submission mentorship is not anonymous.
 
-Students wishing to participate in the pre-submission mentorship must submit their paper draft by March 27, 2025.
+Students wishing to participate in the pre-submission mentorship must submit their paper draft by filling this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSecnxBYtvjJnZ2NdvAxB84q6RRBK97pbUXsaj14AdOC71ZLTA/viewform?pli=1) by March 27, 2025.
 
 Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check for the formality of the paper including formatting before we match it with mentors.
 
@@ -119,7 +120,11 @@ The SRW invites papers on topics related to computational linguistics, including
 ## Grants
 
 We expect to have grants to offset some portion of students' travel, conference registration, and accommodation expenses. Further details will be posted on the SRW website.
-To contact the organizers of the workshop, please email us at: [acl2025-srw@googlegroups.com](mailto:acl2025-srw@googlegroups.com)
+To contact the organizers of the workshop, please email us at: [acl.2025.srw@gmail.com](mailto:acl.2025.srw@gmail.com)
+
+## Visa
+
+For visa information please check the [ACL 2025 page](https://2025.aclweb.org/venue/visa/).
 
 ## Student Research Workshop Chairs
 
