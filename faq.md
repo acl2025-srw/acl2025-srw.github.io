@@ -6,7 +6,9 @@ order : 1
 ---
 
 #### Q: Can I submit my non-archival accepted paper in other venues?
-__A:__ Yes.
+__A:__ Yes, as long as the other venues follow a similar double-submission policy. We refer authors to the detailed requirements outlined in our [Author Guidelines]((https://acl2025-srw.github.io/author)).
+
+For papers submitted to the ACL main conference, please note that according to the ACL policy, authors are not permitted to submit the same work to another archival venue (such as SRW) while the paper is under review, committed, or awaiting a decision. See more [here](https://aclrollingreview.org/organizers)
 
 #### Q: If accepted, can a paper be published in the proceedings, even if it the student cannot take part at the workshop?
 __A:__ The ACL organizing team will attempt to provide travel grants to authors of all accepted papers. However, if things still don't work out, we can discuss remote presentation options should your paper be accepted.
@@ -29,10 +31,11 @@ Submission link for the workshop is now available [here](https://softconf.com/ac
 #### Q: If I submit to the mentorship program, do I also have to submit to the workshop separately?
 Yes! Please make sure you submit your work again to the workshop in order to have it reviewed. 
 
-### Q: Can a systematic literature survey conducted by a master's student be submitted to the ACL Student Research Workshop (SRW)?
+#### Q: Can a systematic literature survey conducted by a master's student be submitted to the ACL Student Research Workshop (SRW)?
 Yes, a systematic literature survey is suitable for submission to the ACL SRW, provided the master's student is listed as the first author.
 
-### Q: Is a researcher eligible to submit their work to ACL SRW if they graduated before the submission date but conducted the research during their PhD and remain affiliated with their university?
+#### Q: Is a researcher eligible to submit their work to ACL SRW if they graduated before the submission date but conducted the research during their PhD and remain affiliated with their university?
 No, first authors must be current students at the time of submission. The ACL SRW is intended exclusively for current students, so graduates are not eligible to submit even if the research was completed during their PhD studies.
 
 Please contact us at [acl.2025.srw@gmail.com](mailto:acl.2025.srw@gmail.com) if you have any other questions.
+
