@@ -24,7 +24,7 @@
               <td>
                 {% assign datediff = presubmen | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if presubmen < nowdate %} <strike> <font color="grey">{% endif %}
-                {% if datediff < 30 and datediff > -1 %} </font><font color="red"> {% endif %}
+                {% if datediff < 30 and datediff > -1 %} </font><font color="grey"> {% endif %}
                 {{ presubmen | date: "%b %-d (%a), %Y" }}</font>
               </td>
             </tr>
