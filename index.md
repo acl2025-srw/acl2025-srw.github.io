@@ -20,9 +20,9 @@ Contact us via email at [acl.2025.srw@gmail.com](mailto:acl.2025.srw@gmail.com) 
 <!-- Get connected with us on [Twitter](https://twitter.com/acl_srw). -->
 
 <!-- Note below is outdated, and we will update soon! -->
-----
+<!-- ----
 !! -- Pre-submission mentorship applications are open now!
-If you would like to get feedback from mentors, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSecnxBYtvjJnZ2NdvAxB84q6RRBK97pbUXsaj14AdOC71ZLTA/viewform?usp=dialog) before March 27, 2025.
+If you would like to get feedback from mentors, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSecnxBYtvjJnZ2NdvAxB84q6RRBK97pbUXsaj14AdOC71ZLTA/viewform?usp=dialog) before March 27, 2025. -->
 
 ----
 !! -- We are recruiting mentors and reviewers!
