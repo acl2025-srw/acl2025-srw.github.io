@@ -117,6 +117,20 @@ The SRW invites papers on topics related to computational linguistics, including
 - Syntax: Tagging, Chunking, and Parsing
 - Thesis Proposals
 
+## ACL Co-ordinated Disclosure Policy
+If your paper describes methods for eliciting harmful or unintended behavior from models or technologies (e.g., exposing vulnerabilities, jailbreaks, or misuse scenarios), you must follow ACL’s Co-ordinated Disclosure Policy. This requires authors to:
+- Contact the developers of the affected system(s) before submission.
+- Wait at least 30 days after initial contact before publicly disclosing the vulnerability (e.g., through preprints or publications).
+- Document the disclosure process in the Ethical Considerations section of your paper, including:
+  (1) Who you contacted,
+  (2) How you contacted them,
+  (3) Dates of contact and responses.
+
+This policy only applies to cases involving intentional adversarial techniques. Issues that occur "out of the box" without targeted manipulation are not subject to the policy.
+
+For full details, refer to the official ACL Publication Ethics page:
+https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Co-ordinated_disclosure
+
 ## Grants
 
 We expect to have grants to offset some portion of students' travel, conference registration, and accommodation expenses. Further details will be posted on the SRW website.
