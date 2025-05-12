@@ -128,8 +128,7 @@ If your paper describes methods for eliciting harmful or unintended behavior fro
 
 This policy only applies to cases involving intentional adversarial techniques. Issues that occur "out of the box" without targeted manipulation are not subject to the policy.
 
-For full details, refer to the official ACL Publication Ethics page:
-https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Co-ordinated_disclosure
+For full details, refer to the [official ACL Publication Ethics page](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Co-ordinated_disclosure).
 
 ## Grants
 
