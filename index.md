@@ -27,21 +27,8 @@ If you would like to get feedback from mentors, please fill in this [form](https
 ----
 !! -- We are recruiting mentors and reviewers!
 
-Mentoring is a great way to meet new researchers interested in your research area, and to have a positive impact on the ACL community. See more info in [mentoring](https://acl2025-srw.github.io/mentoring) page. Please fill out this form if you are interested! 
+~~Mentoring is a great way to meet new researchers interested in your research area, and to have a positive impact on the ACL community. See more info in [mentoring](https://acl2025-srw.github.io/mentoring) page. Please fill out this form if you are interested!~~
 
-
-<a href="https://forms.gle/JeH53zDCm1piUtGH8" target="_blank" style="text-decoration:none;">
-    <button style="
-        background-color: #28a745; 
-        color: white; 
-        padding: 10px 20px; 
-        font-size: 16px; 
-        border: none; 
-        border-radius: 5px; 
-        cursor: pointer;">
-        Mentor Volunteer
-    </button>
-</a>
 
 Also, we are also seeking reviewers whose responsibilities include evaluating papers and providing constructive feedback. If you are interested, please complete this [form](https://forms.gle/SZVFgniyvZaYQ84k8).  
 
