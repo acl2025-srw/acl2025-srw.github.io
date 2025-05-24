@@ -27,7 +27,7 @@ If you would like to get feedback from mentors, please fill in this [form](https
 ----
 # News Alerts
 
-May 24, 2025 [Grant Application Guideline](https://acl2025-srw.github.io/travel_grant) has been updated
+May 24, 2025: [Grant Application Guideline](https://acl2025-srw.github.io/travel_grant) has been updated
 
 ----
 !! -- We are recruiting mentors and reviewers!
