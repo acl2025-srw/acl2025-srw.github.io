@@ -29,6 +29,7 @@ If you would like to get feedback from mentors, please fill in this [form](https
 
 May 24, 2025 [Grant Application Guideline](https://acl2025-srw.github.io/travel_grant) has been updated
 
+----
 !! -- We are recruiting mentors and reviewers!
 
 ~~Mentoring is a great way to meet new researchers interested in your research area, and to have a positive impact on the ACL community. See more info in [mentoring](https://acl2025-srw.github.io/mentoring) page. Please fill out this form if you are interested!~~
