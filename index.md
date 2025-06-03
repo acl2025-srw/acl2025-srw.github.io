@@ -27,6 +27,8 @@ If you would like to get feedback from mentors, please fill in this [form](https
 ----
 # News Alerts
 
+June 6, 2025: Filling this [form](https://cryptpad.fr/form/#/2/form/view/IrfF8hdarp0UwDMlrIApSUjPIo5XoyzsBLRHIPkhMIU/) for obtaining a VISA in advance, more [info](https://2025.aclweb.org/visa/) here.
+
 May 24, 2025: [Grant Application Guideline](https://acl2025-srw.github.io/travel_grant) has been updated
 
 ----
