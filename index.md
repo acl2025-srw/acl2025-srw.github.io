@@ -27,6 +27,12 @@ If you would like to get feedback from mentors, please fill in this [form](https
 ----
 # News Alerts
 
+June 25, 2025: At least one author of each accepted paper must complete the registration by this date.
+
+June 23, 2025: Grant application has been closed. 
+
+June 21, 2025: All the reviews have been returned to the authors.
+
 June 6, 2025: Filling this [form](https://cryptpad.fr/form/#/2/form/view/IrfF8hdarp0UwDMlrIApSUjPIo5XoyzsBLRHIPkhMIU/) for obtaining a VISA in advance, more [info](https://2025.aclweb.org/visa/) here.
 
 May 24, 2025: [Grant Application Guideline](https://acl2025-srw.github.io/travel_grant) has been updated
