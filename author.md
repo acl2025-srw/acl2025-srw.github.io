@@ -13,6 +13,18 @@ The ACL has released policies for submission, review and citation. Accompanying 
 
 Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Authors should list all such previous presentations in the submission form. This will help the workshop chairs if questions of originality arise.
 
+## Student Status Proof
+
+We require the first author of accepted papers to provide proof of student status at the camera-ready stage. To facilitate this, we encourage first authors to prepare the necessary document in advance. The following types of proof are acceptable:
+
+* A picture of your student card
+
+* A study enrollment document from your current institution
+
+* A transcript of your study
+
+We understand that some students may have graduated or are on a gap year, but completed the work while they were still students. This situation is acceptable, and authors can provide the above documents from their most recent period of study.
+
 ## Double submission
 
 Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to ACL SRW 2025. Authors of papers accepted for presentation at ACL SRW 2025 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
