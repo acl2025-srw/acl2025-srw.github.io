@@ -28,7 +28,7 @@ If you would like to get feedback from mentors, please fill in this [form](https
 # News Alerts
 
 
-June 25, 2025: The Camera-ready version submission has been open! Student Status Proof is Required! (details can be found here.)
+June 25, 2025: The Camera-ready version submission has been open! Student Status Proof is Required! (details can be found [here](https://acl2025-srw.github.io/author#:~:text=Student%20Status%20Proof).)
 
 June 25, 2025: At least one author of each accepted paper must complete the registration by this date. SRW attendees must register for the '[Full Conference](https://2025.aclweb.org/)' (not workshops only), as the SRW will be held during the main conference. Virtual registration is permitted.
 
