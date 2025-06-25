@@ -50,7 +50,7 @@ Late or incomplete submissions will **not** be considered.
 
 All applicants will be notified of the results by:
 
-**🗓️ June 26th, 2025, 23:59 AOE**
+**🗓️ June ~~26th~~ 24th, 2025, 23:59 AOE**
 
 Please be patient — every applicant will receive an email notification, **regardless of the outcome**.
 
@@ -72,7 +72,7 @@ The number of grants awarded and the amount of funding provided will depend on t
 | Event                   | Date                           |
 | ----------------------- | ------------------------------ |
 | Application Deadline    | **June 23rd, 2025, 23:59 AOE** |
-| Notification of Results | **June 26th, 2025, 23:59 AOE** |
+| Notification of Results | **June ~~26th~~ 24th, 2025, 23:59 AOE** |
 
 ---
 
