@@ -27,6 +27,9 @@ If you would like to get feedback from mentors, please fill in this [form](https
 ----
 # News Alerts
 
+June 26, 2025: !! All authors must sign the copyright transfer form named <paper_submission_ID>.pdf (e.g., 9.pdf) and upload to this [google drive link](https://drive.google.com/drive/folders/1Nd2oK6Hn9eJjAp0R1havaJ7kjTyI93NE?usp=sharing) before July 1st 23:59, AoE.
+
+June 26, 2025: Grant has been notified to the applicants.
 
 June 25, 2025: The Camera-ready version submission has been open! Student Status Proof is Required! (details can be found [here](https://acl2025-srw.github.io/author#:~:text=Student%20Status%20Proof).)
 
