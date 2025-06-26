@@ -27,7 +27,7 @@ If you would like to get feedback from mentors, please fill in this [form](https
 ----
 # News Alerts
 
-June 26, 2025: !! All authors must sign the copyright transfer form named <paper_submission_ID>.pdf (e.g., 9.pdf) and upload to this [google drive link](https://drive.google.com/drive/folders/1Nd2oK6Hn9eJjAp0R1havaJ7kjTyI93NE?usp=sharing) before July 1st 23:59, AoE.
+June 26, 2025: !! All authors must sign the [copyright transfer form](https://docs.google.com/document/d/1VXs6X5VrKXAcFkdrUqfExfZisWmxjD3IrzgxMIugsgw/edit?usp=sharing) named `paper_submission_ID`.pdf (e.g., 9.pdf) and upload to this [google drive link](https://drive.google.com/drive/folders/1Nd2oK6Hn9eJjAp0R1havaJ7kjTyI93NE?usp=sharing) before July 1st 23:59, AoE.
 
 June 26, 2025: Grant has been notified to the applicants.
 
