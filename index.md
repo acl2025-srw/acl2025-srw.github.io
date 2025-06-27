@@ -29,7 +29,8 @@ If you would like to get feedback from mentors, please fill in this [form](https
 
 June 26, 2025: You can download the different versions of ACL logo from [here](https://drive.google.com/drive/folders/1GtkNVmq_bogb9ZJwzKWyyX2Q_0fMkOQg).
 
-June 26, 2025: !! All authors must sign the [copyright transfer form](https://github.com/acl-org/ACLPUB/blob/master/templates/copyright/acl-copyright-transfer-2021.pdf) named `paper_submission_ID`.pdf (e.g., 9.pdf) and upload to this [google drive link](https://drive.google.com/drive/folders/1Nd2oK6Hn9eJjAp0R1havaJ7kjTyI93NE?usp=sharing) before July 1st 23:59, AoE.
+June 26, 2025: !! ~~All authors must sign the [copyright transfer form](https://github.com/acl-org/ACLPUB/blob/master/templates/copyright/acl-copyright-transfer-2021.pdf) named `paper_submission_ID`.pdf (e.g., 9.pdf) and upload to this [google drive link](https://drive.google.com/drive/folders/1Nd2oK6Hn9eJjAp0R1havaJ7kjTyI93NE?usp=sharing) before July 1st 23:59, AoE. ~~!
+Update: You can upload the file when submitting the camera-ready paper in the Openreview.
 
 June 26, 2025: Grant has been notified to the applicants.
 
