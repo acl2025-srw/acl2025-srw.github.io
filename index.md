@@ -27,6 +27,8 @@ If you would like to get feedback from mentors, please fill in this [form](https
 ----
 # News Alerts
 
+July 9: Accepted papers are [listed](https://acl2025-srw.github.io/accepted_papers).
+
 June 26, 2025: You can download the different versions of ACL logo from [here](https://drive.google.com/drive/folders/1GtkNVmq_bogb9ZJwzKWyyX2Q_0fMkOQg).
 
 June 26, 2025: 
