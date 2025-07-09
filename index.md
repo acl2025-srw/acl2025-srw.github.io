@@ -27,7 +27,7 @@ If you would like to get feedback from mentors, please fill in this [form](https
 ----
 # News Alerts
 
-July 9: Acknowledge update with deepest thanks.
+July 9: Acknowledgement [update](https://acl2025-srw.github.io/acknowledgement) with deepest thanks.
 
 July 9: Accepted papers are [listed](https://acl2025-srw.github.io/accepted_papers).
 
