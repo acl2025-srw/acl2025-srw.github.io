@@ -4,163 +4,315 @@ title: "Accepted Papers"
 permalink: /accepted_papers
 order : 1
 ---
-
-TBD
-
 ## Archival
 
-***[ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer](https://aclanthology.org/2023.acl-srw.1.pdf)***\
-Dongqi Pu, Vera Demberg
+***Advancing African-Accented English Speech Recognition: Epistemic Uncertainty-Driven Data Selection for Generalizable ASR Models***\
+Bonaventure F. P. Dossou
 
-***[Multi-Dialectal Representation Learning of Sinitic Phonology](https://aclanthology.org/2023.acl-srw.2.pdf)***\
-Zhibai Jia
+***Beyond the Gold Standard in Analytic Automated Essay Scoring***\
+Gabrielle Gaudeau
 
-***[Prompt-based Zero-shot Text Classification with Conceptual Knowledge](https://aclanthology.org/2023.acl-srw.4.pdf)***\
-Yuqi Wang, Wei Wang, Qi Chen, Kaizhu Huang, Anh Nguyen, Suparna De
+***Confidence and Stability of Global and Pairwise Scores in NLP Evaluation***\
+Georgii Levtsov; Dmitry Ustalov
 
-***[How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese](https://aclanthology.org/2023.acl-srw.5.pdf)***\
-Takuro Fujii, Koki Shibata, Atsuki Yamaguchi, Terufumi Morishita, Yasuhiro Sogawa
+***Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets***\
+Simon Münker; Kai Kugler; Achim Rettinger
 
-***[Semantic-Aware Dynamic Retrospective-Prospective Reasoning for Event-Level Video Question Answering](https://aclanthology.org/2023.acl-srw.7.pdf)***\
-Chenyang Lyu, Tianbo Ji, Yvette Graham, Jennifer Foster
+***Rethinking Full Finetuning from Pretraining Checkpoints in Active Learning for African Languages***\
+Bonaventure F. P. Dossou; Ines Arous; Jackie CK Cheung
 
-***[Jamp: Controlled Japanese Temporal Inference Dataset for Evaluating Generalization Capacity of Language Models](https://aclanthology.org/2023.acl-srw.8.pdf)***\
-Tomoki Sugimoto, Yasumasa Onoe, Hitomi Yanaka
+***HYPEROFA: Expanding LLM Vocabulary to New Languages via Hypernetwork-Based Embedding Initialization***\
+Enes Özeren; Yihong Liu; Hinrich Schuetze
 
-***[Constructing Multilingual Code Search Dataset Using Neural Machine Translation](https://aclanthology.org/2023.acl-srw.10.pdf)***\
-Ryo Sekizawa, Nan Duan, Shuai Lu, Hitomi Yanaka
+***SEPSIS: I Can Catch Your Lies -- A New Paradigm for Deception Detection***\
+Anku Rani; Dwip Dalal; Shreya Gautam; Pankaj Gupta; Vinija Jain; Aman Chadha; Amit Sheth; Amitava Das
 
-***[Multimodal Neural Machine Translation Using Synthetic Images Transformed by Latent Diffusion Model](https://aclanthology.org/2023.acl-srw.12.pdf)***\
-Ryoya Yuasa, Akihiro Tamura, Tomoyuki Kajiwara, Takashi Ninomiya, Tsuneo Kato
+***Can Multi-turn Self-refined Single Agent LMs with Retrieval Solve Hard Coding Problems?***\
+Md Tanzib Hosain; Md Kishor Morol
 
-***[Enhancing Ancient Chinese Understanding with Derived Noisy Syntax Trees](https://aclanthology.org/2023.acl-srw.15.pdf)***\
-Ping Wang, Shitou Zhang, Zuchao Li, Jingrui Hou
+***Do Androids Question Electric Sheep? A Multi-Agent Cognitive Simulation of Philosophical Reflection on Hybrid Table Reasoning***\
+Yiran Rex Ma
 
-***[The Turing Quest: Can Transformers Make Good NPCs?](https://aclanthology.org/2023.acl-srw.17.pdf)***\
-Qi Chen Gao, Ali Emami
+***Grouped Sequency-arranged Rotation:  Optimizing Rotation Transformation for Quantization for Free***\
+Euntae Choi; Sumin Song; Woosang Lim; Sungjoo Yoo
 
-***[Making the Most Out of the Limited Context Length: Predictive Power Varies with Clinical Note Type and Note Section](https://aclanthology.org/2023.acl-srw.18.pdf)***\
-Hongyi Zheng, Yixin Zhu, Lavender Jiang, Kyunghyun Cho, Eric Oermann
+***A Reproduction Study: The Kernel PCA Interpretation of Self-Attention Fails Under Scrutiny***\
+Karahan Sarıtaş; Çağatay Yıldız
 
-***[Intriguing Effect of the Correlation Prior on ICD-9 Code Assignment](https://aclanthology.org/2023.acl-srw.19.pdf)***\
-Zihao Yang, Chenkang Zhang, Muru Wu, Xujin Liu, Lavender Jiang, Kyunghyun Cho, Eric Oermann
+***Transforming Brainwaves into Language: EEG Microstates Meet Text Embedding Models for Dementia Detection***\
+Quoc-Toan Nguyen; Linh Le; Xuan-The Tran; Dorothy Bai; Nghia Duong-Trung; Thomas Do; Chin-teng Lin
 
-***[Classical Out-of-Distribution Detection Methods Benchmark in Text Classification Tasks](https://aclanthology.org/2023.acl-srw.20.pdf)***\
-Mateusz Baran, Joanna Baran, Mateusz Wójcik, Maciej Zięba, Adam Gonczarek
+***Neuron-Level Language Tag Injection Improves Zero-Shot Translation Performance***\
+Jay Orten; Ammon Shurtz; Nancy Fulda; Stephen D. Richardson
 
-***[Can LMs Store and Retrieve 1-to-N Relational Knowledge?](https://aclanthology.org/2023.acl-srw.22.pdf)***\
-Haruki Nagasawa, Benjamin Heinzerling, Kazuma Kokuta, Kentaro Inui
+***Voices of Dissent: A Multimodal Analysis of Protest Songs through Lyrics and Audio***\
+Utsav Shekhar; Radhika Mamidi
 
-***[Theoretical Linguistics Rivals Embeddings in Language Clustering for Multilingual Named Entity Recognition](https://aclanthology.org/2023.acl-srw.24.pdf)***\
-Sakura Imai, Daisuke Kawahara, Naho Orita, Hiromune Oda
+***Your Pretrained Model Tells the Difficulty Itself: A Self-Adaptive Curriculum Learning Paradigm for Natural Language Understanding***\
+Qi Feng; Yihong Liu; Hinrich Schuetze
 
-***[Native Language Prediction from Gaze: a Reproducibility Study](https://aclanthology.org/2023.acl-srw.26.pdf)***\
-Lina Skerath, Paulina Toborek, Anita Zielińska, Maria Barrett, Rob Van Der Goot
+***CausalGraphBench: a Benchmark for Evaluating Language Models capabilities of Causal Graph discovery***\
+Nikolay Babakov; Ehud Reiter; Alberto Bugarín-Diz
 
-***[MedTem2.0: Prompt-based Temporal Classification of Treatment Events from Discharge Summaries](https://aclanthology.org/2023.acl-srw.27.pdf)***\
-Yang Cui, Lifeng Han, Goran Nenadic
+***Reasoning for Translation: Comparative Analysis of Chain-of-Thought and Tree-of-Thought Prompting for LLM Translation***\
+Lam Nguyen; Yang Xu
 
-***[Sudden Semantic Shifts in Swedish NATO discourse](https://aclanthology.org/2023.acl-srw.28.pdf)***\
-Brian Bonafilia, Bastiaan Bruinsma, Denitsa Saynova, Moa Johansson
+***iPrOp: Interactive Prompt Optimization for Large Language Models with a Human in the Loop***\
+Jiahui Li; Roman Klinger
 
-***[Building a Buzzer-quiz Answering System](https://aclanthology.org/2023.acl-srw.29.pdf)***\
-Naoya Sugiura, Kosuke Yamada, Ryohei Sasano, Koichi Takeda, Katsuhiko Toyama
+***Evaluating Structured Output Robustness of Small Language Models for Open Attribute-Value Extraction from Clinical Notes***\
+Nikita Neveditsin; Pawan Lingras; Vijay Kumar Mago
 
-***[Probing for Hyperbole in Pre-Trained Language Models](https://aclanthology.org/2023.acl-srw.30.pdf)***\
-Nina Schneidermann, Daniel Hershcovich, Bolette Pedersen
+***FaithfulSAE: Towards Capturing Faithful Features with Sparse Autoencoders without External Datasets Dependency***\
+Seonglae Cho; Harryn Oh; Donghyun Lee; Luis Rodrigues Vieira; Andrew Bermingham; Ziad El Sayed
 
-***[Towards Efficient Dialogue Processing in the Emergency Response Domain](https://aclanthology.org/2023.acl-srw.31.pdf)***\
-Tatiana Anikina
+***Translating Movie Subtitles by Large Language Models using Movie-meta Information***\
+Ashmari Pramodya; Yusuke Sakai; Justin Vasselli; Hidetaka Kamigaito; Taro Watanabe
 
-***[I already said that! Degenerating redundant questions in open-domain dialogue systems.](https://aclanthology.org/2023.acl-srw.33.pdf)***\
-Long Mai, Julie Carson-berndsen
+***Pun2Pun: Benchmarking LLMs on Textual-Visual Chinese-English Pun Translation via Pragmatics Model and Linguistic Reasoning***\
+Yiran Rex Ma; Shan Huang; Yuting Xu; Ziyu Zhou; Yuanxi Wei
 
-***[Is a Knowledge-based Response Engaging?: An Analysis on Knowledge-Grounded Dialogue with Information Source Annotation](https://aclanthology.org/2023.acl-srw.34.pdf)***\
-Takashi Kodama, Hirokazu Kiyomaru, Yin Jou Huang, Taro Okahisa, Sadao Kurohashi
+***Small Models, Big Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages***\
+Daniil Gurgurov; Ivan Vykopal; Josef van Genabith; Simon Ostermann
 
-***[Choosing What to Mask: More Informed Masking for Multimodal Machine Translation](https://aclanthology.org/2023.acl-srw.35.pdf)***\
-Julia Sato, Helena Caseli, Lucia Specia
+***Exploring the Effect of Nominal Compound Structure in Scientific Texts on Reading Times of Experts and Novices***\
+Isabell Landwehr; Marie-Pauline Krielke; Stefania Degaetano-Ortlieb
 
-***[Combining Tradition with Modernness: Exploring Event Representations in Vision-and-Language Models for Visual Goal-Step Inference](https://aclanthology.org/2023.acl-srw.36.pdf)***\
-Chong Shen, Carina Silberer
+***Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks***\
+Amir Saeidi; Shivanshu Verma; Md Nayem Uddin; Chitta Baral
 
-***[Data Selection for Fine-tuning Large Language Models Using Transferred Shapley Values](https://aclanthology.org/2023.acl-srw.37.pdf)***\
-Stephanie Schoch, Ritwick Mishra, Yangfeng Ji
+***From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems***\
+Youngjoon Jang; Seongtae Hong; Junyoung Son; Sungjin Park; Chanjun Park; Heuiseok Lim
 
-***[Distractor Generation for Fill-in-the-Blank Exercises by Question Type](https://aclanthology.org/2023.acl-srw.38.pdf)***\
-Nana Yoshimi, Tomoyuki Kajiwara, Satoru Uchida, Yuki Arase, Takashi Ninomiya
+***Quantifying the Influence of Irrelevant Contexts on Political Opinions Produced by LLMs***\
+Samuele D'Avenia; Valerio Basile
 
-***[Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity](https://aclanthology.org/2023.acl-srw.40.pdf)***\
-Gabriel Simmons
+***Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset***\
+Seunguk Yu; Kyeonghyun Kim; JungMin Yun; YoungBin Kim
 
-***[LECO: Improving Early Exiting via Learned Exits and Comparison-based Exiting Mechanism](https://aclanthology.org/2023.acl-srw.43.pdf)***\
-Jingfan Zhang, Ming Tan, Pengyu Dai, Wei Zhu
+***Towards Multi-Perspective NLP Systems: A Thesis Proposal***\
+Benedetta Muscato
 
-***[Authorship Attribution of Late 19th Century Novels using GAN-BERT](https://aclanthology.org/2023.acl-srw.44.pdf)***\
-Kanishka Silva, Burcu Can, Frédéric Blain, Raheem Sarwar, Laura Ugolini, Ruslan Mitkov
+***Enhancing Software Requirements Engineering with Language Models and Prompting Techniques: Insights from the Current Research and Future Directions***\
+Moemen Ebrahim; Shawkat Guirguis; Christine Basta
 
-***[How-to Guides for Specific Audiences: A Corpus and Initial Findings](https://aclanthology.org/2023.acl-srw.46.pdf)***\
-Nicola Fanton, Agnieszka Falenska, Michael Roth
+***Question Decomposition for Retrieval-Augmented Generation***\
+Paul J. L. Ammann; Jonas Golde; Alan Akbik
 
-***["When Words Fail, Emojis Prevail": Generating Sarcastic Utterances with Emoji Using Valence Reversal and Semantic Incongruity](https://aclanthology.org/2023.acl-srw.47.pdf)***\
-Faria Binte Kader, Nafisa Hossain Nujat, Tasmia Binte Sogir, Mohsinul Kabir, Hasan Mahmud, Md Kamrul Hasan
+***Neural Machine Translation for Agglutinative Languages via Data Rejuvenation***\
+Chen Zhao; Yatu Ji; Ren Qing-Dao-Er-Ji; Nier Wu; Lei Shi; Fu Liu; Yepai Jia
 
-***[Semantic Accuracy in Natural Language Generation: A Thesis Proposal](https://aclanthology.org/2023.acl-srw.48.pdf)***\
-Patricia Schmidtova
+***StRuCom: A Novel Dataset of Structured Code Comments in Russian***\
+Maria Dziuba; Valentin Malykh
 
-***[Math Word Problem Solving by Generating Linguistic Variants of Problem Statements](https://aclanthology.org/2023.acl-srw.49.pdf)***\
-Syed Rifat Raiyan, Md Nafis Faiyaz, Shah Md. Jawad Kabir, Mohsinul Kabir, Hasan Mahmud, Md Kamrul Hasan
+***A Semantic Uncertainty Sampling Strategy for Back-Translation in Low-Resources Neural Machine Translation***\
+Yepai Jia, Yatu Ji, Xiang Xue, Lei Shi, Qing-Dao-Er-Ji Ren, Nier Wu, Na Liu, Chen Zhao, Fu Liu
 
+***Spanish Dialect Classification: A Comparative Study of Linguistically Tailored Features, Unigrams and BERT Embeddings***\
+Laura Zeidler; Chris Jenkins; Filip Miletić; Sabine Schulte im Walde
+
+***SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains***\
+Bijoy Ahmed Saiem; MD Sadik Hossain Shanto; Rakib Ahsan; Md Rafi Ur Rashid
+
+***A Dual-Layered Evaluation of Geopolitical and Cultural Bias in LLMs***\
+Sean Kim; Hyuhng Joon Kim
+
+***MA-COIR: Leveraging Semantic Search Index and Generative Models for Ontology-Driven Biomedical Concept Recognition***\
+Shanshan liu; Noriki Nishida; Rumana Ferdous Munne; Narumi Tokunaga; Yuki Yamagata; Kouji Kozaki; Yuji Matsumoto
+
+***LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries***\
+Zekun Wu; Seonglae Cho; Umar Mohammed; CRISTIAN ENRIQUE MUNOZ VILLALOBOS; Kleyton Da Costa; Xin Guan; Theo King; Ze Wang; Emre Kazim; Adriano Koshiyama
+
+***Interactive Text Games: Lookahead Is All You Need!***\
+Hosein Rezaei; James Alfred Walker; Frank Soboczenski
+
+***Evaluating Credibility and Political Bias in LLMs for News Outlets in Bangladesh***\
+Tabia Tanzin Prama; Md. Saiful Islam
+
+***The Evolution of Gen Alpha Slang: Linguistic Patterns and AI Translation Challenges***\
+Ishita; Radhika Mamidi
+
+***Light-Weight Hallucination Detection using Contrastive Learning for Conditional Text Generation***\
+Miyu Yamada; Yuki Arase
+
+***Fact from Fiction: Finding Serialized Novels in Newspapers***\
+Pascale Feldkamp; Alie Lassche; Katrine Frøkjær Baunvig; Kristoffer Nielbo; Yuri Bizzoni
+
+***Cross-Genre Learning for Old English Poetry POS Tagging***\
+Irene Miani; Sara Stymne; Gregory R. Darwin
+
+***A Computational Framework to Identify Self-Aspects in Text***\
+Jaya Caporusso; Matthew Purver; Senja Pollak
+
+***Prompting the Muse: Generating Prosodically-Correct Latin Speech with Large Language Models***\
+Michele Ciletti
+
+***Can a Large Language Model Keep My Secrets? A Study on LLM-Controlled Agents***\
+Niklas Hemken; Sai Koneru; Florian Jacob; Hannes Hartenstein; Jan Niehues
+
+***Chart Question Answering from Real-World Analytical Narratives***\
+Maeve Hutchinson; Radu Jianu; Aidan Slingsby; Jo Wood; Pranava Madhyastha
+
+***Low-Perplexity LLM-Generated Sequences and Where To Find Them***\
+Arthur Wuhrmann; Andrei Kucharavy; Anastasiia Kucherenko
+
+***CoLeM: A framework for semantic interpretation of Russian-language tables based on contrastive learning***\
+Kirill Tobola; Nikita Dorodnykh
+
+***Mitigating Hallucination by Integrating Knowledge Graphs into LLM Inference -- a Systematic Literature Review***\
+Robin Wagner; Emanuel Kitzelmann; Ingo Boersch
+
+***Semantic alignment in hyperbolic space for fine-grained emotion classification***\
+Ashish Kumar; Durga Toshniwal
+
+***I Speak for the Árboles: Developing a Dependency Treebank for Spanish L2 and Heritage Speakers***\
+Emiliana Pulido; Robert Pugh; Zoey Liu
+
+***Evaluating Tokenizer Adaptation Methods for Large Language Models on Low-Resource Programming Languages***\
+Georgy Andryushchenko; Vladimir V. Ivanov
+
+***Learning and Enforcing Context-Sensitive Control for LLMs***\
+Mohammad Albinhassan; Pranava Madhyastha; Mark Law; Alessandra Russo
+
+***When Will the Tokens End? Graph-Based Forecasting for LLMs Output Length***\
+Grzegorz Piotrowski; Mateusz Bystroński; Mikołaj Hołysz; Jakub Binkowski; Grzegorz Chodak; Tomasz Jan Kajdanowicz
+
+***Only for the Unseen Languages, Say the Llamas: On the Efficacy of Language Adapters for Cross-lingual Transfer in English-centric LLMs***\
+Julian Schlenker; Jenny Kunz; Tatiana Anikina; Günter Neumann; Simon Ostermann
+
+***HyILR: Hyperbolic Instance-Specific Local Relationships for Hierarchical Text Classification***\
+Ashish Kumar; Durga Toshniwal
+
+***Are LLMs Truly Graph-Savvy? A Comprehensive Evaluation of Graph Generation***\
+Ege Demirci; Rithwik Kerur; Ambuj Singh
+
+***Pragmatic Perspective on Assessing Implicit Meaning Interpretation in Sentiment Analysis Models***\
+Rashid Mustafin
+
+***Foundations of PEERS: Assessing LLM Role Performance in Educational Simulations***\
+Jasper Meynard Arana; Kristine Ann M. Carandang; Ethan Robert Casin; Christian Alis; Daniel Stanley Tan; Erika Fille Legara; Christopher Monterola
+
+***The Role of Exploration Modules in Small Language Models for Knowledge Graph Question Answering***\
+Yi-Jie Cheng; Oscar Chew; Yun-Nung Chen
+
+***Bridging the Embodiment Gap in Agricultural Knowledge Representation for Language Models***\
+Vasu Jindal; Huijin Ju; Zili Lyu
+
+***Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity***\
+So Fukuda; Hayato Ogawa; Kaito Horio; Daisuke Kawahara; Tomohide Shibata
+
+***Towards Robust Sentiment Analysis of Temporally-Sensitive Policy-Related Online Text***\
+Charles Alba; Benjamin C Warner; Akshar Saxena; Jiaxin Huang; Ruopeng An
+
+***Is Partial Linguistic Information Sufficient for Discourse Connective Disambiguation? A Case Study of Concession***\
+Takuma Sato; Ai Kubota; Koji Mineshima
+
+***Semantic Frame Induction from a Real-World Corpus***\
+Shogo Tsujimoto; Kosuke Yamada; Ryohei Sasano
+
+***Lost and Found: Computational Quality Assurance of Crowdsourced Knowledge on Morphological Defectivity in Wiktionary***\
+Jonathan Sakunkoo; Annabella Sakunkoo
+
+***Improving Explainability of Sentence-level Metrics via Edit-level Attribution for Grammatical Error Correction***\
+Takumi Goto; Justin Vasselli; Taro Watanabe
+
+***Proposal: From One-Fit-All to Perspective Aware Modeling***\
+Leixin Zhang
+
+***Controlling Language Confusion in Multilingual LLMs***\
+Nahyun Lee; Yeongseo Woo; Hyunwoo Ko; Guijin Son
+
+***Grammatical Error Correction via Sequence Tagging for Russian***\
+Regina Nasyrova; Alexey Sorokin
+
+***DRUM: Learning Demonstration Retriever for Large MUlti-modal Models***\
+Ellen Yi-Ge; Jiechao Gao; Wei Han; Wei Zhu
+
+***GerMedIQ: A Resource for Simulated and Synthesized Anamnesis Interview Responses in German***\
+Justin Hofenbitzer; Sebastian Schöning; Sebastian Belle; Jacqueline Lammert; Luise Modersohn; Martin Boeker; Diego Frassinelli
+
+***Unstructured Minds, Predictable Machines: A Comparative Study of Narrative Cohesion in Human and LLM Stream-of-Consciousness Writing***\
+Nellia Dzhubaeva; Katharina Trinley; Laura Pissani
+
+***Exploiting contextual information to improve stance detection in informal political discourse with LLMs***\
+Arman Engin Sucu; Yixiang Zhou; Mario A. Nascimento; Tony Mullen
+
+***A Framework for Fine-Grained Complexity Control in Health Answer Generation***\
+Daniel Jorge Bernardo Ferreira; Tiago Almeida; Sérgio Matos
+
+***QA Analysis in Medical and Legal Domains: A Survey of Data Augmentation in Low-Resource Settings***\
+Benedictus Kent Rachmat; Thomas Gerald; Zheng Zhang SLB; Cyril Grouin
+
+***Time-LlaMA: Adapting Large Language Models for Time Series Modeling via Dynamic Low-rank Adaptation***\
+Juyuan Zhang; Jiechao Gao; Wenwen Ouyang; Wei Zhu; Hui Yi Leong
+
+***RusConText Benchmark: A Russian Language Evaluation Benchmark for Understanding Context***\
+Andrey Chirkin; Svetlana Kuznetsova; Maria Volina; Anna Dengina
+
+***GenDLN: Evolutionary Algorithm-Based Stacked LLM Framework for Joint Prompt Optimization***\
+Pia Chouayfati; Niklas Herbster; Ábel Domonkos Sáfrán; Matthias Grabmair
+
+***Sign Language Video Segmentation Using Temporal Boundary Identification***\
+Kavu Maithri Rao; Yasser HAMIDULLAH; Eleftherios Avramidis
+
+***LIP-NER: Literal Patterns Benefit LLM-Based NER***\
+Ruiqi Li; Li Chen
+
+***Testing English News Articles for Lexical Homogenization Due to Widespread Use of Large Language Models***\
+Sarah Fitterer; Dominik Gangl; Jannes Ulbrich
+
+***Bridging the Data Gap in Financial Sentiment: LLM-Driven Augmentation***\
+Rohit Kumar; Chandan Nolbaria
 
 ## Non-Archival
 
-***Detection and Comparison of Abusive and Hate Speech in English and Hinglish with Emojis Using Deep Learning and Non-Deep Learning Techniques***\
-Sneha P, Sneha Bhaskara, Srishti Seth, Stuti Mohanty, Preet Kanwal
+***Bias Amplification: Large Language Models as Increasingly Biased Media***\
+Ze Wang, Zekun Wu, Jeremy Zhang, Xin Guan, Navya Jain, Skylar Lu, Saloni Gupta, Adriano Koshiyama
 
-***Improving Portfolio Management with Signals from Financial News***\
-Zhilu Zhang
+***LayerNorm vs RMSNorm: A Geometric Perspective and the Case Against Mean Subtraction***\
+Akshat Gupta; Atahan Ozdemir; Caoqinwei Gong; Gopala Anumanchipalli
 
-***Aligning Code-Switching Metrics with Bilingual Behavior***\
-Rebecca Pattichis, Sonya Trawick, Dora LaCasse, Rena Torres Cacoullos
+***Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training***\
+Jaydeep Borkar, Matthew Jagielski, Katherine Lee, Niloofar Mireshghallah, David A. Smith, Christopher A. Choquette-Choo
 
-***Gender Stereotyping in Popular Children's Videos***\
-Tiasa Singha Roy, Mallikarjuna Tupakula, Sumeet Kumar, Ashiqur Khudabukhsh
+***CHENGYU-BENCH: Benchmarking Large Language Models for Chinese Idiom Understanding and Use***\
+Yicheng Fu; Zhemin Huang; Liuxin Yang; Yumeng Lu; Zhongdongming Dai
 
-***Is Anisotropy Inherent to Transformers?***\
-Nathan Godey, Éric De La Clergerie, Benoît Sagot
+***SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviors***\
+Tiancheng Hu, Joachim Baumann, Lorenzo Lupo, Nigel Collier, Dirk Hovy, Paul Röttger
 
-***A State-Vector Framework For Dataset Effects***\
-Esmat Sahak, Zining Zhu, Frank Rudzicz
+***Adversarial Tokenization***\
+Renato Geh; Zilei Shao; Guy Van den Broeck
 
-***Geometric Locality of Entity Embeddings in Masked Language Models***\
-Masaki Sakata, Sho Yokoi, Benjamin Heinzerling, Kentaro Inui
+***Unwrapping Circularity: Can Transformers Learn Languages with Circular Schemes?***\
+Xiutian Zhao; Aulia Rafi; Siying Chen; Xiulin Yang
 
-***Assessing Chain-of-Thought Reasoning against Lexical Negation: A Case Study on Syllogism***\
-Mengyu Ye, Tatsuki Kuribayashi, Jun Suzuki, Hiroaki Funayama, Goro Kobayashi
+***Tree-of-Report: Table-to-Text Generation for Sports Game Reports with Tree-Structured Prompting***\
+Shang-Hsuan Chiang; Tsan-Tsung Yang; Kuang-Da Wang; Wei-Yao Wang; An-Zi Yen; Wen-Chih Peng
 
-***EvoGrad: An Online Platform for an Evolving Winograd Schema Challenge using Adversarial Human Perturbations***\
-Jing Han Sun, Ali Emami
+***From Directions to Cones: Multidimensional Representations of Propositional Facts in LLMs***\
+Stanley Yu; Vaidehi Bulusu; Clayton Lau; Oscar S. Yasunaga; Cole Blondin; Vasu Sharma; Kevin Zhu; Sean O'Brien
 
-***SWEET: Weakly Supervised Person Name Extraction for Fighting Human Trafficking***\
-Javin Liu, Peter Yu, Vidya Sujaya, Pratheeksha Nair, Kellin Pelrine, Reihaneh Rabbany
+***NovelHopQA: Diagnosing Multi-Hop Reasoning Failures in Long Narrative Contexts***\
+Abhay Gupta, Michael Lu, Kevin Zhu, Sean O'Brien, Vasu Sharma
 
-***Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4***\
-Kellin Pelrine, Meilina Reksoprodjo, Caleb Gupta, Joel Christoph, Reihaneh Rabbany
+***Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning***\
+Seungjun Yi; Joakim Nguyen; Huimin Xu; Terence Lim; Andrew Well; Mia Markey; Ying Ding
 
+***Causal Language Control in Multilingual Transformers via Sparse Feature Steering***\
+Cheng-Ting Chou; George Liu; Jessica Sun; Cole Blondin; Kevin Zhu; Vasu Sharma; Sean O'Brien
 
-## Finding Papers
+***Semantic Convergence: Investigating Shared Representations Across Scaled LLMs***\
+Daniel Son; Sanjana Rathore; Andrew Rufail; Adrian Simon; Daniel Zhang; Soham Dave; Cole Blondin; Sean O'Brien; Kevin Zhu
 
-***Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models***\
-Hao Wang, Hirofumi Shimizu, Daisuke Kawahara
+***Can LLMs Contribute to Social Inclusion? A Zero-Shot Analysis of Homelessness Bias Detection on Reddit***\
+Jonathan A. Karr Jr.; Benjamin F. Herbst; Matthew Hauenstein; Georgina Curto; Nitesh V Chawla
 
-***Predicting Human Translation Difficulty Using Automatic Word Alignment***\
-Zheng Wei Lim, Trevor Cohn, Charles Kemp, Ekaterina Vylomova
+***Do LLMs Understand Wine Descriptors Across Cultures? A Benchmark for Cultural Adaptions of Wine Reviews***\
+Chenye Zou, Xingyue Wen, Qian Janice Wang, Daniel Hershcovich
 
-***Acquiring Frame Element Knowledge with Deep Metric Learning for Semantic Frame Induction***\
-Kosuke Yamada, Ryohei Sasano, Koichi Takeda
+***Direct Confidence Alignment: Aligning Verbalized Confidence with Internal Confidence In Large Language Models***\
+Glenn Zhang; Treasure Mayowa; Jason Fan; Yicheng Fu; Aaron Sandoval; Sean O'Brien; Kevin Zhu
 
-***Transformer Language Models Handle Word Frequency in Prediction Head***\
-Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui
-
-***Second Language Acquisition of Neural Language Models***\
-Miyu Oba, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe
+***Overcoming Self-Imposed Limits: Five Words to Break an LLM's Context Compression Barrier***\
+Lin-Wei Chao; Kuang-Da Wang; Wen-Chih Peng
