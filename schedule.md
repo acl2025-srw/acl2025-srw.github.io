@@ -8,7 +8,11 @@ The workshop will take place on **Monday, July 28** and **Tuesday, July 29** at 
 **Date & Time:** Monday, July 28 | 10:30–12:00  
 **Location:** Hall N.2 & Zoom
 
-### 14:00–14:10  **WELCOME**
+### 14:00–14:10  
+
+**WELCOME**
+
+---
 
 ### 14:10–15:20 | Presentations  
 
