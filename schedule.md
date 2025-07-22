@@ -3,28 +3,53 @@
 The workshop will take place on **Monday, July 28** and **Tuesday, July 29** at the [Austria Center Vienna](https://www.acv.at/en/). The program consists of three sessions, featuring oral and poster presentations.
 
 ---
+## Session 3 - Oral Session
 
-### 🕑 14:00–14:10  
-**WELCOME**
+**Date & Time:** Monday, July 28 | 10:30–12:00  
+**Location:** Hall N.2 & Zoom
+
+### 14:00–14:10  **WELCOME**
+
+### 14:10–15:20 | Presentations  
+
+**14:10–14:20**  
+**Paper ID:** 96-SRW  
+**Title:** *Towards Multi-Perspective NLP Systems: A Thesis Proposal*  
+**Presenter:** Benedetta Muscato  
+
+**14:20–14:30**  
+**Paper ID:** 156-SRW  
+**Title:** *Fact from Fiction: Finding Serialized Novels in Newspapers*  
+**Presenter:** Pascale Feldkamp  
+
+**14:30–14:40**  
+**Paper ID:** 187-SRW  
+**Title:** *Semantic Alignment in Hyperbolic Space for Fine-Grained Emotion Classification*  
+**Presenter:** Ashish Kumar  
+
+**14:40–14:50**  
+**Paper ID:** 195-SRW  
+**Title:** *SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviors*  
+**Presenter:** Tiancheng Hu  
+
+**14:50–15:00**  
+**Paper ID:** 198-SRW  
+**Title:** *Adversarial Tokenization*  
+**Presenter:** Renato Lui Geh  
+
+**15:00–15:10**  
+**Paper ID:** 276-SRW  
+**Title:** *Tree-of-Report: Table-to-Text Generation for Sports Game Reports with Tree-Structured Prompting*  
+**Presenter:** Shang-Hsuan Chiang  
+
+**15:10–15:20**  
+**Paper ID:** 63-SRW  
+**Title:** *Reasoning for Translation: Comparative Analysis of Chain-of-Thought and Tree-of-Thought Prompting for LLM Translation*  
+**Presenter:** Lam Nguyen  
 
 ---
 
-### 🕑 14:10–15:20 | Presentations  
-
-| Time        | Paper ID     | Title                                                                                                                  | Presenter               |
-|-------------|--------------|------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 14:10–14:20 | **96-SRW**   | *Towards Multi-Perspective NLP Systems: A Thesis Proposal*                                                            | Benedetta Muscato       |
-| 14:20–14:30 | **156-SRW**  | *Fact from Fiction: Finding Serialized Novels in Newspapers*                                                          | Pascale Feldkamp        |
-| 14:30–14:40 | **187-SRW**  | *Semantic Alignment in Hyperbolic Space for Fine-Grained Emotion Classification*                                      | Ashish Kumar            |
-| 14:40–14:50 | **195-SRW**  | *SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviors*                             | Tiancheng Hu            |
-| 14:50–15:00 | **198-SRW**  | *Adversarial Tokenization*                                                                                            | Renato Lui Geh          |
-| 15:00–15:10 | **276-SRW**  | *Tree-of-Report: Table-to-Text Generation for Sports Game Reports with Tree-Structured Prompting*                     | Shang-Hsuan Chiang      |
-| 15:10–15:20 | **63-SRW**   | *Reasoning for Translation: Comparative Analysis of Chain-of-Thought and Tree-of-Thought Prompting for LLM Translation* | Lam Nguyen              |
-
-
----
-
-### 🕑 15:20–15:30  
+### 15:20–15:30  
 **BEST PAPERS & CLOSING**
 
 ---
