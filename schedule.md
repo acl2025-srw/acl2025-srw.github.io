@@ -5,7 +5,7 @@ The workshop will take place on **Monday, July 28** and **Tuesday, July 29** at 
 ---
 ## Session 3 - Oral Session
 
-**Date & Time:** Monday, July 28 | 10:30–12:00  
+**Date & Time:** Monday, July 28 | 14:00–15:30  
 **Location:** Hall N.2 & Zoom
 
 ### 14:00–14:10  
@@ -64,6 +64,8 @@ The workshop will take place on **Monday, July 28** and **Tuesday, July 29** at 
 
 This hybrid session will include both **in-person** and **virtual poster presentations**.
 
+[UPDATE:] During the virtual sessions, you will be required to present your paper using a poster or a set of slides in a 4-minute talk, followed by a 2-minute Q&A session.
+
 ---
 
 ## Session 10 – Poster Session (Hybrid)  
@@ -71,6 +73,8 @@ This hybrid session will include both **in-person** and **virtual poster present
 **Location:** Hall 4/5 & Zoom (GatherTown)
 
 This is the final session of the workshop, also featuring **in-person** and **virtual poster presentations**.
+
+[UPDATE:] During the virtual sessions, you will be required to present your paper using a poster or a set of slides in a 4-minute talk, followed by a 2-minute Q&A session.
 
 ---
 
